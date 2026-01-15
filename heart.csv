@@ -1,0 +1,1026 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+52,Male,Typical angina,125,212,Normal,1,168,No,1,Upsloping,2,Normal,0
+53,Male,Typical angina,140,203,High,0,155,Yes,3.1,Downsloping,0,Normal,0
+70,Male,Typical angina,145,174,Normal,1,125,Yes,2.6,Downsloping,0,Normal,0
+61,Male,Typical angina,148,203,Normal,1,161,No,0,Upsloping,1,Normal,0
+62,Female,Typical angina,138,294,High,1,106,No,1.9,Flat,3,Fixed Defect,0
+58,Female,Typical angina,100,248,Normal,0,122,No,1,Flat,0,Fixed Defect,1
+58,Male,Typical angina,114,318,Normal,2,140,No,4.4,Downsloping,3,Reversible Defect,0
+55,Male,Typical angina,160,289,Normal,0,145,Yes,0.8,Flat,1,Normal,0
+46,Male,Typical angina,120,249,Normal,0,144,No,0.8,Upsloping,0,Normal,0
+54,Male,Typical angina,122,286,Normal,0,116,Yes,3.2,Flat,2,Fixed Defect,0
+71,Female,Typical angina,112,149,Normal,1,125,No,1.6,Flat,0,Fixed Defect,1
+43,Female,Typical angina,132,341,High,0,136,Yes,3,Flat,0,Normal,0
+34,Female,Atypical angina,118,210,Normal,1,192,No,0.7,Upsloping,0,Fixed Defect,1
+51,Male,Typical angina,140,298,Normal,1,122,Yes,4.2,Flat,3,Normal,0
+52,Male,Typical angina,128,204,High,1,156,Yes,1,Flat,0,Normal,0
+34,Female,Atypical angina,118,210,Normal,1,192,No,0.7,Upsloping,0,Fixed Defect,1
+51,Female,Non-anginal pain,140,308,Normal,0,142,No,1.5,Upsloping,1,Fixed Defect,1
+54,Male,Typical angina,124,266,Normal,0,109,Yes,2.2,Flat,1,Normal,0
+50,Female,Atypical angina,120,244,Normal,1,162,No,1.1,Upsloping,0,Fixed Defect,1
+58,Male,Non-anginal pain,140,211,High,0,165,No,0,Upsloping,0,Fixed Defect,1
+60,Male,Non-anginal pain,140,185,Normal,0,155,No,3,Flat,0,Fixed Defect,0
+67,Female,Typical angina,106,223,Normal,1,142,No,0.3,Upsloping,2,Fixed Defect,1
+45,Male,Typical angina,104,208,Normal,0,148,Yes,3,Flat,0,Fixed Defect,1
+63,Female,Non-anginal pain,135,252,Normal,0,172,No,0,Upsloping,0,Fixed Defect,1
+42,Female,Non-anginal pain,120,209,Normal,1,173,No,0,Flat,0,Fixed Defect,1
+61,Female,Typical angina,145,307,Normal,0,146,Yes,1,Flat,0,Normal,0
+44,Male,Non-anginal pain,130,233,Normal,1,179,Yes,0.4,Upsloping,0,Fixed Defect,1
+58,Female,Atypical angina,136,319,High,0,152,No,0,Upsloping,2,Fixed Defect,0
+56,Male,Non-anginal pain,130,256,High,0,142,Yes,0.6,Flat,1,Reversible Defect,0
+55,Female,Typical angina,180,327,Normal,2,117,Yes,3.4,Flat,0,Fixed Defect,0
+44,Male,Typical angina,120,169,Normal,1,144,Yes,2.8,Downsloping,0,Reversible Defect,0
+50,Female,Atypical angina,120,244,Normal,1,162,No,1.1,Upsloping,0,Fixed Defect,1
+57,Male,Typical angina,130,131,Normal,1,115,Yes,1.2,Flat,1,Normal,0
+70,Male,Non-anginal pain,160,269,Normal,1,112,Yes,2.9,Flat,1,Normal,0
+50,Male,Non-anginal pain,129,196,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+46,Male,Non-anginal pain,150,231,Normal,1,147,No,3.6,Flat,0,Fixed Defect,0
+51,Male,Asymptomatic,125,213,Normal,0,125,Yes,1.4,Upsloping,1,Fixed Defect,1
+59,Male,Typical angina,138,271,Normal,0,182,No,0,Upsloping,0,Fixed Defect,1
+64,Male,Typical angina,128,263,Normal,1,105,Yes,0.2,Flat,1,Normal,1
+57,Male,Non-anginal pain,128,229,Normal,0,150,No,0.4,Flat,1,Normal,0
+65,Female,Non-anginal pain,160,360,Normal,0,151,No,0.8,Upsloping,0,Fixed Defect,1
+54,Male,Non-anginal pain,120,258,Normal,0,147,No,0.4,Flat,0,Normal,1
+61,Female,Typical angina,130,330,Normal,0,169,No,0,Upsloping,0,Fixed Defect,0
+46,Male,Typical angina,120,249,Normal,0,144,No,0.8,Upsloping,0,Normal,0
+55,Female,Atypical angina,132,342,Normal,1,166,No,1.2,Upsloping,0,Fixed Defect,1
+42,Male,Typical angina,140,226,Normal,1,178,No,0,Upsloping,0,Fixed Defect,1
+41,Male,Atypical angina,135,203,Normal,1,132,No,0,Flat,0,Reversible Defect,1
+66,Female,Typical angina,178,228,High,1,165,Yes,1,Flat,2,Normal,0
+66,Female,Non-anginal pain,146,278,Normal,0,152,No,0,Flat,1,Fixed Defect,1
+60,Male,Typical angina,117,230,High,1,160,Yes,1.4,Upsloping,2,Normal,0
+58,Female,Asymptomatic,13500,283,High,0,162,No,1,Upsloping,0,Fixed Defect,1
+57,Female,Typical angina,140,241,Normal,1,123,Yes,0.2,Flat,0,Normal,0
+38,Male,Non-anginal pain,138,175,Normal,1,173,No,0,Upsloping,4,Fixed Defect,1
+49,Male,Non-anginal pain,120,188,Normal,1,139,No,2,Flat,3,Normal,0
+55,Male,Typical angina,140,217,Normal,1,111,Yes,5.6,Downsloping,0,Normal,0
+55,Male,Typical angina,140,217,Normal,1,111,Yes,5.6,Downsloping,0,Normal,0
+56,Male,Asymptomatic,120,193,Normal,0,162,No,1.9,Flat,0,Normal,1
+48,Male,Atypical angina,130,245,Normal,0,180,No,0.2,Flat,0,Fixed Defect,1
+67,Male,Non-anginal pain,152,212,Normal,0,150,No,0.8,Flat,0,Normal,0
+57,Male,Atypical angina,154,232,Normal,0,164,No,0,Upsloping,1,Fixed Defect,0
+29,Male,Atypical angina,130,204,Normal,0,202,No,0,Upsloping,0,Fixed Defect,1
+66,Female,Non-anginal pain,146,278,Normal,0,152,No,0,Flat,1,Fixed Defect,1
+67,Male,Typical angina,100,299,Normal,0,125,Yes,0.9,Flat,2,Fixed Defect,0
+59,Male,Non-anginal pain,150,212,High,1,157,No,1.6,Upsloping,0,Fixed Defect,1
+29,Male,Atypical angina,130,204,Normal,0,202,No,0,Upsloping,0,Fixed Defect,1
+59,Male,Asymptomatic,170,288,Normal,0,159,No,0.2,Flat,0,Normal,0
+53,Male,Non-anginal pain,130,197,High,0,152,No,1.2,Downsloping,0,Fixed Defect,1
+42,Male,Typical angina,136,315,Normal,1,125,Yes,1.8,Flat,0,Reversible Defect,0
+37,Female,Non-anginal pain,120,215,Normal,1,170,No,0,Upsloping,0,Fixed Defect,1
+62,Female,Typical angina,160,164,Normal,0,145,No,6.2,Downsloping,3,Normal,0
+59,Male,Typical angina,170,326,Normal,0,140,Yes,3.4,Downsloping,0,Normal,0
+61,Male,Typical angina,140,207,Normal,0,138,Yes,1.9,Upsloping,1,Normal,0
+56,Male,Typical angina,125,249,High,0,144,Yes,1.2,Flat,1,Fixed Defect,0
+59,Male,Typical angina,140,177,Normal,1,162,Yes,0,Upsloping,1,Normal,0
+48,Male,Typical angina,130,256,High,0,150,Yes,0,Upsloping,2,Normal,0
+47,Male,Non-anginal pain,138,257,Normal,0,156,No,0,Upsloping,0,Fixed Defect,1
+48,Male,Non-anginal pain,124,255,High,1,175,No,0,Upsloping,2,Fixed Defect,1
+63,Male,Typical angina,140,187,Normal,0,144,Yes,4,Upsloping,2,Normal,0
+52,Male,Atypical angina,134,201,Normal,1,158,No,0.8,Upsloping,1,Fixed Defect,1
+52,Male,Atypical angina,134,201,Normal,1,158,No,0.8,Upsloping,1,Fixed Defect,1
+50,Male,Non-anginal pain,140,233,Normal,1,163,No,0.6,Flat,1,Normal,0
+49,Male,Non-anginal pain,118,149,Normal,0,126,No,0.8,Upsloping,3,Fixed Defect,0
+46,Male,Non-anginal pain,150,231,Normal,1,147,No,3.6,Flat,0,Fixed Defect,0
+38,Male,Non-anginal pain,138,175,Normal,1,173,No,0,Upsloping,4,Fixed Defect,1
+37,Female,Non-anginal pain,120,215,Normal,1,170,No,0,Upsloping,0,Fixed Defect,1
+44,Male,Atypical angina,120,220,Normal,1,170,No,0,Upsloping,0,Fixed Defect,1
+58,Male,Non-anginal pain,140,211,High,0,165,No,0,Upsloping,0,Fixed Defect,1
+59,Female,Typical angina,174,249,Normal,1,143,Yes,0,Flat,0,Fixed Defect,0
+62,Female,Typical angina,140,268,Normal,0,160,No,3.6,Downsloping,2,Fixed Defect,0
+68,Male,Typical angina,144,193,High,1,141,No,3.4,Flat,2,Normal,0
+54,Female,Non-anginal pain,108,267,Normal,0,167,No,0,Upsloping,0,Fixed Defect,1
+62,Female,Typical angina,124,209,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+63,Male,Typical angina,140,187,Normal,0,144,Yes,4,Upsloping,2,Normal,0
+44,Male,Typical angina,120,169,Normal,1,144,Yes,2.8,Downsloping,0,Reversible Defect,0
+62,Male,Atypical angina,128,208,High,0,140,No,0,Upsloping,0,Fixed Defect,1
+45,Female,Typical angina,138,236,Normal,0,152,Yes,0.2,Flat,0,Fixed Defect,1
+57,Female,Typical angina,128,303,Normal,0,159,No,0,Upsloping,1,Fixed Defect,1
+53,Male,Typical angina,123,282,Normal,1,95,Yes,2,Flat,2,Normal,0
+65,Male,Typical angina,110,248,Normal,0,158,No,0.6,Upsloping,2,Reversible Defect,0
+76,Female,Non-anginal pain,140,197,Normal,2,116,No,1.1,Flat,0,Fixed Defect,1
+43,Female,Non-anginal pain,122,213,Normal,1,165,No,0.2,Flat,0,Fixed Defect,1
+57,Male,Non-anginal pain,150,126,High,1,173,No,0.2,Upsloping,1,Normal,1
+54,Male,Atypical angina,108,309,Normal,1,156,No,0,Upsloping,0,Normal,1
+47,Male,Non-anginal pain,138,257,Normal,0,156,No,0,Upsloping,0,Fixed Defect,1
+52,Male,Asymptomatic,118,186,Normal,0,190,No,0,Flat,0,Reversible Defect,1
+47,Male,Typical angina,110,275,Normal,0,118,Yes,1,Flat,1,Fixed Defect,0
+51,Male,Typical angina,140,299,Normal,1,173,Yes,1.6,Upsloping,0,Normal,0
+62,Male,Atypical angina,120,281,Normal,0,103,No,1.4,Flat,1,Normal,0
+40,Male,Typical angina,152,223,Normal,1,181,No,0,Upsloping,0,Normal,0
+54,Male,Typical angina,110,206,Normal,0,108,Yes,0,Flat,1,Fixed Defect,0
+44,Male,Typical angina,110,197,Normal,0,177,No,0,Upsloping,1,Fixed Defect,0
+53,Male,Typical angina,142,226,Normal,0,111,Yes,0,Upsloping,0,Normal,1
+48,Male,Typical angina,130,256,High,0,150,Yes,0,Upsloping,2,Normal,0
+57,Male,Typical angina,110,335,Normal,1,143,Yes,3,Flat,1,Normal,0
+59,Male,Non-anginal pain,126,218,High,1,134,No,2.2,Flat,1,Reversible Defect,0
+61,Female,Typical angina,145,307,Normal,0,146,Yes,1,Flat,0,Normal,0
+63,Male,Typical angina,130,254,Normal,0,147,No,1.4,Flat,1,Normal,0
+43,Male,Typical angina,12000,177,Normal,0,120,Yes,2.5,Flat,0,Normal,0
+29,Male,Atypical angina,130,204,Normal,0,202,No,0,Upsloping,0,Fixed Defect,1
+42,Male,Atypical angina,120,295,Normal,1,162,No,0,Upsloping,0,Fixed Defect,1
+54,Male,Atypical angina,108,309,Normal,1,156,No,0,Upsloping,0,Normal,1
+44,Male,Typical angina,120,169,Normal,1,144,Yes,2.8,Downsloping,0,Reversible Defect,0
+60,Male,Typical angina,145,282,Normal,0,142,Yes,2.8,Flat,2,Normal,0
+65,Female,Non-anginal pain,140,417,High,0,157,No,0.8,Upsloping,1,Fixed Defect,1
+61,Male,Typical angina,120,260,Normal,1,140,Yes,3.6,Flat,1,Normal,0
+60,Female,Asymptomatic,150,240,Normal,1,171,No,0.9,Upsloping,0,Fixed Defect,1
+66,Male,Typical angina,120,302,Normal,0,151,No,0.4,Flat,0,Fixed Defect,1
+53,Male,Non-anginal pain,130,197,High,0,152,No,1.2,Downsloping,0,Fixed Defect,1
+52,Male,Non-anginal pain,138,223,Normal,1,169,No,0,Upsloping,4,Fixed Defect,1
+57,Male,Typical angina,140,192,Normal,1,148,No,0.4,Flat,0,Reversible Defect,1
+60,Female,Asymptomatic,150,240,Normal,1,171,No,0.9,Upsloping,0,Fixed Defect,1
+51,Female,Non-anginal pain,130,256,Normal,0,149,No,0.5,Upsloping,0,Fixed Defect,1
+41,Male,Atypical angina,135,203,Normal,1,132,No,0,Flat,0,Reversible Defect,1
+50,Male,Non-anginal pain,129,196,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+54,Male,Atypical angina,108,309,Normal,1,156,No,0,Upsloping,0,Normal,1
+58,Female,Typical angina,170,225,High,0,146,Yes,2.8,Flat,2,Reversible Defect,0
+55,Female,Atypical angina,132,342,Normal,1,166,No,1.2,Upsloping,0,Fixed Defect,1
+64,Female,Typical angina,180,325,Normal,1,154,Yes,0,Upsloping,0,Fixed Defect,1
+47,Male,Non-anginal pain,138,257,Normal,0,156,No,0,Upsloping,0,Fixed Defect,1
+41,Male,Atypical angina,110,235,Normal,1,153,No,0,Upsloping,0,Fixed Defect,1
+57,Male,Typical angina,152,274,Normal,1,88,Yes,1.2,Flat,1,Normal,0
+63,Female,Typical angina,124,197,Normal,1,136,Yes,0,Flat,0,Fixed Defect,0
+61,Male,Asymptomatic,134,234,Normal,1,145,No,2.6,Flat,2,Fixed Defect,0
+34,Male,Asymptomatic,118,182,Normal,0,174,No,0,Upsloping,0,Fixed Defect,1
+47,Male,Typical angina,112,204,Normal,1,143,No,0.1,Upsloping,0,Fixed Defect,1
+40,Male,Typical angina,110,167,Normal,0,114,Yes,2,Flat,0,Normal,0
+51,Female,Non-anginal pain,120,295,Normal,0,157,No,0.6,Upsloping,0,Fixed Defect,1
+41,Male,Typical angina,110,172,Normal,0,158,No,0,Upsloping,0,Normal,0
+52,Male,Asymptomatic,152,298,High,1,178,No,1.2,Flat,0,Normal,1
+39,Male,Non-anginal pain,140,321,Normal,0,182,No,0,Upsloping,0,Fixed Defect,1
+58,Male,Typical angina,114,318,Normal,2,140,No,4.4,Downsloping,3,Reversible Defect,0
+54,Male,Atypical angina,192,283,Normal,0,195,No,0,Upsloping,1,Normal,0
+58,Male,Typical angina,125,300,Normal,0,171,No,0,Upsloping,2,Normal,0
+54,Male,Non-anginal pain,120,258,Normal,0,147,No,0.4,Flat,0,Normal,1
+63,Male,Typical angina,130,330,High,0,132,Yes,1.8,Upsloping,3,Normal,0
+54,Male,Atypical angina,108,309,Normal,1,156,No,0,Upsloping,0,Normal,1
+40,Male,Asymptomatic,140,199,Normal,1,178,Yes,1.4,Upsloping,0,Normal,1
+54,Male,Non-anginal pain,120,258,Normal,0,147,No,0.4,Flat,0,Normal,1
+67,Female,Non-anginal pain,115,564,Normal,0,160,No,1.6,Flat,0,Normal,1
+41,Male,Atypical angina,120,157,Normal,1,182,No,0,Upsloping,0,Fixed Defect,1
+77,Male,Typical angina,125,304,Normal,0,162,Yes,0,Upsloping,3,Fixed Defect,0
+51,Male,Non-anginal pain,100,222,Normal,1,143,Yes,1.2,Flat,0,Fixed Defect,1
+77,Male,Typical angina,125,304,Normal,0,162,Yes,0,Upsloping,3,Fixed Defect,0
+48,Male,Typical angina,124,274,Normal,0,166,No,0.5,Flat,0,Normal,0
+56,Male,Typical angina,125,249,High,0,144,Yes,1.2,Flat,1,Fixed Defect,0
+59,Male,Typical angina,170,326,Normal,0,140,Yes,3.4,Downsloping,0,Normal,0
+56,Male,Typical angina,132,184,Normal,0,105,Yes,2.1,Flat,1,Reversible Defect,0
+57,Female,Typical angina,120,354,Normal,1,163,Yes,0.6,Upsloping,0,Fixed Defect,1
+43,Male,Non-anginal pain,130,315,Normal,1,162,No,1.9,Upsloping,1,Fixed Defect,1
+45,Female,Atypical angina,112,160,Normal,1,138,No,0,Flat,0,Fixed Defect,1
+43,Male,Typical angina,150,247,Normal,1,171,No,1.5,Upsloping,0,Fixed Defect,1
+56,Male,Typical angina,130,283,High,0,103,Yes,1.6,Downsloping,0,Normal,0
+56,Male,Atypical angina,120,240,Normal,1,169,No,0,Downsloping,0,Fixed Defect,1
+39,Female,Non-anginal pain,94,199,Normal,1,179,No,0,Upsloping,0,Fixed Defect,1
+54,Male,Typical angina,110,239,Normal,1,126,Yes,2.8,Flat,1,Normal,0
+56,Female,Typical angina,200,288,High,0,133,Yes,4,Downsloping,2,Normal,0
+56,Male,Typical angina,130,283,High,0,103,Yes,1.6,Downsloping,0,Normal,0
+64,Male,Typical angina,120,246,Normal,0,96,Yes,2.2,Downsloping,1,Fixed Defect,0
+44,Male,Typical angina,110,197,Normal,0,177,No,0,Upsloping,1,Fixed Defect,0
+56,Female,Typical angina,134,409,Normal,0,150,Yes,1.9,Flat,2,Normal,0
+63,Male,Typical angina,140,187,Normal,0,144,Yes,4,Upsloping,2,Normal,0
+64,Male,Asymptomatic,110,211,Normal,0,144,Yes,1.8,Flat,0,Fixed Defect,1
+60,Male,Typical angina,140,293,Normal,0,170,No,1.2,Flat,2,Normal,0
+42,Male,Non-anginal pain,130,180,Normal,1,150,No,0,Upsloping,0,Fixed Defect,1
+45,Male,Atypical angina,128,308,Normal,0,170,No,0,Upsloping,0,Fixed Defect,1
+57,Male,Typical angina,165,289,High,0,124,No,1,Flat,3,Normal,0
+40,Male,Typical angina,110,167,Normal,0,114,Yes,2,Flat,0,Normal,0
+56,Male,Typical angina,125,249,High,0,144,Yes,1.2,Flat,1,Fixed Defect,0
+63,Male,Typical angina,130,254,Normal,0,147,No,1.4,Flat,1,Normal,0
+64,Male,Non-anginal pain,125,309,Normal,1,131,Yes,1.8,Flat,0,Normal,0
+41,Male,Non-anginal pain,112,250,Normal,1,179,No,0,Upsloping,0,Fixed Defect,1
+56,Male,Atypical angina,130,221,Normal,0,163,No,0,Upsloping,0,Normal,1
+67,Female,Non-anginal pain,115,564,Normal,0,160,No,1.6,Flat,0,Normal,1
+69,Male,Asymptomatic,160,234,High,0,131,No,0.1,Flat,1,Fixed Defect,1
+67,Male,Typical angina,160,286,Normal,0,108,Yes,1.5,Flat,3,Fixed Defect,0
+59,Male,Non-anginal pain,150,212,High,1,157,No,1.6,Upsloping,0,Fixed Defect,1
+58,Male,Typical angina,100,234,Normal,1,156,No,0.1,Upsloping,1,Normal,0
+45,Male,Typical angina,115,260,Normal,0,185,No,0,Upsloping,0,Fixed Defect,1
+60,Female,Non-anginal pain,102,318,Normal,1,160,No,0,Upsloping,1,Fixed Defect,1
+50,Male,Typical angina,144,200,Normal,0,126,Yes,0.9,Flat,0,Normal,0
+62,Female,Typical angina,124,209,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+34,Male,Asymptomatic,118,182,Normal,0,174,No,0,Upsloping,0,Fixed Defect,1
+52,Male,Asymptomatic,152,298,High,1,178,No,1.2,Flat,0,Normal,1
+64,Male,Asymptomatic,170,227,Normal,0,155,No,0.6,Flat,0,Normal,1
+66,Female,Non-anginal pain,146,278,Normal,0,152,No,0,Flat,1,Fixed Defect,1
+42,Male,Asymptomatic,148,244,Normal,0,178,No,0.8,Upsloping,2,Fixed Defect,1
+59,Male,Non-anginal pain,126,218,High,1,134,No,2.2,Flat,1,Reversible Defect,0
+41,Male,Non-anginal pain,112,250,Normal,1,179,No,0,Upsloping,0,Fixed Defect,1
+38,Male,Non-anginal pain,138,175,Normal,1,173,No,0,Upsloping,4,Fixed Defect,1
+62,Male,Atypical angina,120,281,Normal,0,103,No,1.4,Flat,1,Normal,0
+42,Male,Non-anginal pain,120,240,High,1,194,No,0.8,Downsloping,0,Normal,1
+67,Male,Typical angina,100,299,Normal,0,125,Yes,0.9,Flat,2,Fixed Defect,0
+50,Male,Typical angina,150,243,Normal,0,128,No,2.6,Flat,0,Normal,0
+43,Male,Non-anginal pain,130,315,Normal,1,162,No,1.9,Upsloping,1,Fixed Defect,1
+45,Male,Atypical angina,128,308,Normal,0,170,No,0,Upsloping,0,Fixed Defect,1
+49,Male,Atypical angina,130,266,Normal,1,171,No,0.6,Upsloping,0,Fixed Defect,1
+65,Male,Typical angina,135,254,Normal,0,127,No,2.8,Flat,1,Normal,0
+41,Male,Atypical angina,120,157,Normal,1,182,No,0,Upsloping,0,Fixed Defect,1
+46,Male,Typical angina,140,311,Normal,1,120,Yes,1.8,Flat,2,Normal,0
+54,Male,Typical angina,122,286,Normal,0,116,Yes,3.2,Flat,2,Fixed Defect,0
+57,Female,Atypical angina,130,236,Normal,0,174,No,0,Flat,1,Fixed Defect,0
+63,Male,Typical angina,130,254,Normal,0,147,No,1.4,Flat,1,Normal,0
+64,Male,Asymptomatic,110,211,Normal,0,144,Yes,1.8,Flat,0,Fixed Defect,1
+39,Female,Non-anginal pain,94,199,Normal,1,179,No,0,Upsloping,0,Fixed Defect,1
+51,Male,Typical angina,140,261,Normal,0,186,Yes,0,Upsloping,0,Fixed Defect,1
+54,Male,Non-anginal pain,150,232,Normal,0,165,No,1.6,Upsloping,0,Normal,1
+49,Male,Non-anginal pain,118,149,Normal,0,126,No,0.8,Upsloping,3,Fixed Defect,0
+44,Female,Non-anginal pain,118,242,Normal,1,149,No,0.3,Flat,1,Fixed Defect,1
+52,Male,Atypical angina,128,205,High,1,184,No,0,Upsloping,0,Fixed Defect,1
+66,Female,Typical angina,178,228,High,1,165,Yes,1,Flat,2,Normal,0
+58,Male,Typical angina,125,300,Normal,0,171,No,0,Upsloping,2,Normal,0
+56,Male,Atypical angina,120,236,Normal,1,178,No,0.8,Upsloping,0,Fixed Defect,1
+60,Male,Typical angina,125,258,Normal,0,141,Yes,2.8,Flat,1,Normal,0
+41,Female,Atypical angina,126,306,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+49,Female,Typical angina,130,269,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+64,Male,Asymptomatic,170,227,Normal,0,155,No,0.6,Flat,0,Normal,1
+49,Male,Non-anginal pain,118,149,Normal,0,126,No,0.8,Upsloping,3,Fixed Defect,0
+57,Male,Atypical angina,124,261,Normal,1,141,No,0.3,Upsloping,0,Normal,0
+60,Male,Typical angina,117,230,High,1,160,Yes,1.4,Upsloping,2,Normal,0
+62,Female,Typical angina,150,244,Normal,1,154,Yes,1.4,Flat,0,Fixed Defect,0
+54,Female,Atypical angina,132,288,High,0,159,Yes,0,Upsloping,1,Fixed Defect,1
+200,Male,Non-anginal pain,152,212,Normal,0,150,No,0.8,Flat,0,Normal,0
+38,Male,Non-anginal pain,138,175,Normal,1,173,No,0,Upsloping,4,Fixed Defect,1
+60,Male,Non-anginal pain,140,185,Normal,0,155,No,3,Flat,0,Fixed Defect,0
+51,Male,Non-anginal pain,125,245,High,0,166,No,2.4,Flat,0,Fixed Defect,1
+44,Male,Atypical angina,130,219,Normal,0,188,No,0,Upsloping,0,Fixed Defect,1
+54,Male,Atypical angina,192,283,Normal,0,195,No,0,Upsloping,1,Normal,0
+46,Male,Typical angina,140,311,Normal,1,120,Yes,1.8,Flat,2,Normal,0
+39,Female,Non-anginal pain,138,220,Normal,1,152,No,0,Flat,0,Fixed Defect,1
+42,Male,Non-anginal pain,130,180,Normal,1,150,No,0,Upsloping,0,Fixed Defect,1
+47,Male,Typical angina,110,275,Normal,0,118,Yes,1,Flat,1,Fixed Defect,0
+45,Female,Atypical angina,112,160,Normal,1,138,No,0,Flat,0,Fixed Defect,1
+55,Male,Typical angina,132,353,Normal,1,132,Yes,1.2,Flat,1,Normal,0
+57,Male,Typical angina,165,289,High,0,124,No,1,Flat,3,Normal,0
+35,Male,Typical angina,120,198,Normal,1,130,Yes,1.6,Flat,0,Normal,0
+62,Female,Typical angina,140,394,Normal,0,157,No,1.2,Flat,0,Fixed Defect,1
+365,Female,Typical angina,138,183,Normal,1,182,No,1.4,Upsloping,0,Fixed Defect,1
+64,Female,Typical angina,180,325,Normal,1,154,Yes,0,Upsloping,0,Fixed Defect,1
+38,Male,Asymptomatic,120,231,Normal,1,182,Yes,3.8,Flat,0,Normal,0
+66,Male,Typical angina,120,302,Normal,0,151,No,0.4,Flat,0,Fixed Defect,1
+44,Male,Non-anginal pain,120,226,Normal,1,169,No,0,Upsloping,0,Fixed Defect,1
+54,Male,Non-anginal pain,150,232,Normal,0,165,No,1.6,Upsloping,0,Normal,1
+48,Male,Typical angina,122,222,Normal,0,186,No,0,Upsloping,0,Fixed Defect,1
+55,Female,Atypical angina,132,342,Normal,1,166,No,1.2,Upsloping,0,Fixed Defect,1
+58,Female,Typical angina,170,225,High,0,146,Yes,2.8,Flat,2,Reversible Defect,0
+45,Male,Typical angina,104,208,Normal,0,148,Yes,3,Flat,0,Fixed Defect,1
+53,Male,Typical angina,123,282,Normal,1,95,Yes,2,Flat,2,Normal,0
+67,Male,Typical angina,120,237,Normal,1,71,No,1,Flat,0,Fixed Defect,0
+58,Male,Non-anginal pain,132,224,Normal,0,173,No,3.2,Upsloping,2,Normal,0
+71,Female,Non-anginal pain,110,265,High,0,130,No,0,Upsloping,1,Fixed Defect,1
+43,Male,Typical angina,110,211,Normal,1,161,No,0,Upsloping,0,Normal,1
+44,Male,Atypical angina,120,263,Normal,1,173,No,0,Upsloping,0,Normal,1
+39,Female,Non-anginal pain,138,220,Normal,1,152,No,0,Flat,0,Fixed Defect,1
+54,Male,Typical angina,110,206,Normal,0,108,Yes,0,Flat,1,Fixed Defect,0
+66,Male,Typical angina,160,228,Normal,0,138,No,2.3,Upsloping,0,Reversible Defect,1
+56,Male,Typical angina,130,283,High,0,103,Yes,1.6,Downsloping,0,Normal,0
+57,Male,Typical angina,132,207,Normal,1,168,Yes,0,Upsloping,0,Normal,1
+44,Male,Atypical angina,130,219,Normal,0,188,No,0,Upsloping,0,Fixed Defect,1
+55,Male,Typical angina,160,289,Normal,0,145,Yes,0.8,Flat,1,Normal,0
+41,Female,Atypical angina,105,198,Normal,1,168,No,0,Upsloping,1,Fixed Defect,1
+45,Female,Atypical angina,130,234,Normal,0,175,No,0.6,Flat,0,Fixed Defect,1
+35,Male,Atypical angina,122,192,Normal,1,174,No,0,Upsloping,0,Fixed Defect,1
+41,Female,Atypical angina,130,204,Normal,0,172,No,1.4,Upsloping,0,Fixed Defect,1
+64,Male,Asymptomatic,110,211,Normal,0,144,Yes,1.8,Flat,0,Fixed Defect,1
+555,Male,Non-anginal pain,132,224,Normal,0,173,No,3.2,Upsloping,2,Normal,0
+71,Female,Non-anginal pain,110,265,High,0,130,No,0,Upsloping,1,Fixed Defect,1
+64,Female,Non-anginal pain,140,313,Normal,1,133,No,0.2,Upsloping,0,Normal,1
+71,Female,Atypical angina,160,302,Normal,1,162,No,0.4,Upsloping,2,Fixed Defect,1
+58,Female,Non-anginal pain,120,340,Normal,1,172,No,0,Upsloping,0,Fixed Defect,1
+40,Male,Typical angina,15341,223,Normal,1,181,No,0,Upsloping,0,Normal,0
+52,Male,Non-anginal pain,138,223,Normal,1,169,No,0,Upsloping,4,Fixed Defect,1
+58,Male,Typical angina,128,259,Normal,0,130,Yes,3,Flat,2,Normal,0
+61,Male,Non-anginal pain,150,243,High,1,137,Yes,1,Flat,0,Fixed Defect,1
+59,Male,Non-anginal pain,150,212,High,1,157,No,1.6,Upsloping,0,Fixed Defect,1
+56,Female,Typical angina,200,288,High,0,133,Yes,4,Downsloping,2,Normal,0
+67,Male,Typical angina,100,299,Normal,0,125,Yes,0.9,Flat,2,Fixed Defect,0
+67,Male,Typical angina,120,237,Normal,1,71,No,1,Flat,0,Fixed Defect,0
+58,Male,Typical angina,150,270,Normal,0,111,Yes,0.8,Upsloping,0,Normal,0
+35,Male,Atypical angina,122,192,Normal,1,174,No,0,Upsloping,0,Fixed Defect,1
+52,Male,Atypical angina,120,325,Normal,1,172,No,0.2,Upsloping,0,Fixed Defect,1
+46,Female,Atypical angina,105,204,Normal,1,172,No,0,Upsloping,0,Fixed Defect,1
+51,Male,Non-anginal pain,94,227,Normal,1,154,Yes,0,Upsloping,1,Normal,1
+55,Female,Atypical angina,132,342,Normal,1,166,No,1.2,Upsloping,0,Fixed Defect,1
+60,Male,Typical angina,145,282,Normal,0,142,Yes,2.8,Flat,2,Normal,0
+52,Female,Non-anginal pain,136,196,Normal,0,169,No,0.1,Flat,0,Fixed Defect,1
+62,Male,Typical angina,120,267,Normal,1,99,Yes,1.8,Flat,2,Normal,0
+44,Female,Non-anginal pain,118,242,Normal,1,149,No,0.3,Flat,1,Fixed Defect,1
+44,Male,Atypical angina,120,220,Normal,1,170,No,0,Upsloping,0,Fixed Defect,1
+59,Male,Non-anginal pain,126,218,High,1,134,No,2.2,Flat,1,Reversible Defect,0
+56,Female,Atypical angina,140,294,Normal,0,153,No,1.3,Flat,0,Fixed Defect,1
+61,Male,Typical angina,120,260,Normal,1,140,Yes,3.6,Flat,1,Normal,0
+48,Male,Typical angina,130,256,High,0,150,Yes,0,Upsloping,2,Normal,0
+70,Male,Non-anginal pain,160,269,Normal,1,112,Yes,2.9,Flat,1,Normal,0
+74,Female,Atypical angina,120,269,Normal,0,121,Yes,0.2,Upsloping,1,Fixed Defect,1
+40,Male,Asymptomatic,140,199,Normal,1,178,Yes,1.4,Upsloping,0,Normal,1
+42,Male,Asymptomatic,148,244,Normal,0,178,No,0.8,Upsloping,2,Fixed Defect,1
+64,Female,Non-anginal pain,140,313,Normal,1,133,No,0.2,Upsloping,0,Normal,1
+63,Female,Non-anginal pain,135,252,Normal,0,172,No,0,Upsloping,0,Fixed Defect,1
+59,Male,Typical angina,140,177,Normal,1,162,Yes,0,Upsloping,1,Normal,0
+53,Female,Non-anginal pain,128,216,Normal,0,115,No,0,Upsloping,0,Normal,1
+53,Female,Typical angina,130,264,Normal,0,143,No,0.4,Flat,0,Fixed Defect,1
+48,Female,Non-anginal pain,130,275,Normal,1,139,No,0.2,Upsloping,0,Fixed Defect,1
+45,Male,Typical angina,142,309,Normal,0,147,Yes,0,Flat,3,Normal,0
+66,Male,Atypical angina,160,246,Normal,1,120,Yes,0,Flat,3,Reversible Defect,0
+48,Male,Atypical angina,130,245,Normal,0,180,No,0.2,Flat,0,Fixed Defect,1
+56,Female,Atypical angina,140,294,Normal,0,153,No,1.3,Flat,0,Fixed Defect,1
+54,Male,Atypical angina,192,283,Normal,0,195,No,0,Upsloping,1,Normal,0
+57,Male,Typical angina,150,276,Normal,0,112,Yes,0.6,Flat,1,Reversible Defect,0
+70,Male,Typical angina,130,322,Normal,0,109,No,2.4,Flat,3,Fixed Defect,0
+53,Female,Non-anginal pain,128,216,Normal,0,115,No,0,Upsloping,0,Normal,1
+37,Female,Non-anginal pain,120,215,Normal,1,170,No,0,Upsloping,0,Fixed Defect,1
+63,Female,Typical angina,108,269,Normal,1,169,Yes,1.8,Flat,2,Fixed Defect,0
+37,Male,Non-anginal pain,130,250,Normal,1,187,No,3.5,Downsloping,0,Fixed Defect,1
+54,Female,Non-anginal pain,110,214,Normal,1,158,No,1.6,Flat,0,Fixed Defect,1
+60,Male,Typical angina,130,206,Normal,0,132,Yes,2.4,Flat,2,Normal,0
+58,Male,Typical angina,150,270,Normal,0,111,Yes,0.8,Upsloping,0,Normal,0
+57,Male,Non-anginal pain,150,126,High,1,173,No,0.2,Upsloping,1,Normal,1
+54,Male,Non-anginal pain,125,273,Normal,0,152,No,0.5,Downsloping,1,Fixed Defect,1
+56,Male,Non-anginal pain,130,256,High,0,142,Yes,0.6,Flat,1,Reversible Defect,0
+60,Male,Typical angina,130,253,Normal,1,144,Yes,1.4,Upsloping,1,Normal,0
+38,Male,Non-anginal pain,138,175,Normal,1,173,No,0,Upsloping,4,Fixed Defect,1
+44,Male,Non-anginal pain,120,226,Normal,1,169,No,0,Upsloping,0,Fixed Defect,1
+65,Female,Non-anginal pain,155,269,Normal,1,148,No,0.8,Upsloping,0,Fixed Defect,1
+52,Male,Non-anginal pain,172,199,High,1,162,No,0.5,Upsloping,0,Normal,1
+41,Male,Atypical angina,120,157,Normal,1,182,No,0,Upsloping,0,Fixed Defect,1
+66,Male,Atypical angina,160,246,Normal,1,120,Yes,0,Flat,3,Reversible Defect,0
+50,Male,Typical angina,150,243,Normal,0,128,No,2.6,Flat,0,Normal,0
+54,Female,Non-anginal pain,108,267,Normal,0,167,No,0,Upsloping,0,Fixed Defect,1
+43,Male,Typical angina,132,247,High,0,143,Yes,0.1,Flat,4,Normal,0
+62,Female,Non-anginal pain,130,263,Normal,1,97,No,1.2,Flat,1,Normal,0
+66,Male,Typical angina,120,302,Normal,0,151,No,0.4,Flat,0,Fixed Defect,1
+50,Male,Typical angina,144,200,Normal,0,126,Yes,0.9,Flat,0,Normal,0
+57,Male,Typical angina,110,335,Normal,1,143,Yes,3,Flat,1,Normal,0
+57,Male,Typical angina,110,201,Normal,1,126,Yes,1.5,Flat,0,Reversible Defect,1
+57,Male,Atypical angina,124,261,Normal,1,141,No,0.3,Upsloping,0,Normal,0
+46,Female,Typical angina,138,243,Normal,0,152,Yes,0,Flat,0,Fixed Defect,1
+59,Male,Typical angina,164,176,High,0,90,No,1,Flat,2,Reversible Defect,0
+67,Male,Typical angina,160,286,Normal,0,108,Yes,1.5,Flat,3,Fixed Defect,0
+59,Male,Asymptomatic,134,204,Normal,1,162,No,0.8,Upsloping,2,Fixed Defect,0
+53,Female,Non-anginal pain,128,216,Normal,0,115,No,0,Upsloping,0,Normal,1
+48,Male,Typical angina,122,222,Normal,0,186,No,0,Upsloping,0,Fixed Defect,1
+62,Male,Non-anginal pain,130,231,Normal,1,146,No,1.8,Flat,3,Normal,1
+43,Female,Non-anginal pain,122,213,Normal,1,165,No,0.2,Flat,0,Fixed Defect,1
+53,Male,Non-anginal pain,130,246,High,0,173,No,0,Upsloping,3,Fixed Defect,1
+57,Female,Atypical angina,130,236,Normal,0,174,No,0,Flat,1,Fixed Defect,0
+53,Male,Non-anginal pain,130,246,High,0,173,No,0,Upsloping,3,Fixed Defect,1
+58,Male,Non-anginal pain,112,230,Normal,0,165,No,2.5,Flat,1,Normal,0
+48,Male,Atypical angina,110,229,Normal,1,168,No,1,Downsloping,0,Normal,0
+58,Male,Non-anginal pain,105,240,Normal,0,154,Yes,0.6,Flat,0,Normal,1
+51,Male,Non-anginal pain,110,175,Normal,1,123,No,0.6,Upsloping,0,Fixed Defect,1
+43,Female,Typical angina,132,341,High,0,136,Yes,3,Flat,0,Normal,0
+55,Male,Typical angina,132,353,Normal,1,132,Yes,1.2,Flat,1,Normal,0
+54,Female,Non-anginal pain,110,214,Normal,1,158,No,1.6,Flat,0,Fixed Defect,1
+58,Male,Atypical angina,120,284,Normal,0,160,No,1.8,Flat,0,Fixed Defect,0
+46,Female,Non-anginal pain,142,177,Normal,0,160,Yes,1.4,Downsloping,0,Fixed Defect,1
+66,Male,Typical angina,160,228,Normal,0,138,No,2.3,Upsloping,0,Reversible Defect,1
+59,Male,Atypical angina,140,221,Normal,1,164,Yes,0,Upsloping,0,Fixed Defect,1
+64,Female,Typical angina,130,303,Normal,1,122,No,2,Flat,2,Fixed Defect,1
+67,Male,Typical angina,120,237,Normal,1,71,No,1,Flat,0,Fixed Defect,0
+52,Male,Asymptomatic,118,186,Normal,0,190,No,0,Flat,0,Reversible Defect,1
+58,Male,Typical angina,146,218,Normal,1,105,No,2,Flat,1,Normal,0
+58,Male,Non-anginal pain,132,224,Normal,0,173,No,3.2,Upsloping,2,Normal,0
+59,Male,Typical angina,110,239,Normal,0,142,Yes,1.2,Flat,1,Normal,0
+58,Male,Typical angina,150,270,Normal,0,111,Yes,0.8,Upsloping,0,Normal,0
+35,Male,Typical angina,126,282,Normal,0,156,Yes,0,Upsloping,0,Normal,0
+51,Male,Non-anginal pain,110,175,Normal,1,123,No,0.6,Upsloping,0,Fixed Defect,1
+42,Female,Non-anginal pain,120,209,Normal,1,173,No,0,Flat,0,Fixed Defect,1
+77,Male,Typical angina,125,304,Normal,0,162,Yes,0,Upsloping,3,Fixed Defect,0
+64,Male,Typical angina,120,246,Normal,0,96,Yes,2.2,Downsloping,1,Fixed Defect,0
+63,Male,Asymptomatic,145,233,High,0,150,No,2.3,Downsloping,0,Reversible Defect,1
+58,Female,Atypical angina,136,319,High,0,152,No,0,Upsloping,2,Fixed Defect,0
+45,Male,Asymptomatic,110,264,Normal,1,132,No,1.2,Flat,0,Normal,0
+51,Male,Non-anginal pain,110,175,Normal,1,123,No,0.6,Upsloping,0,Fixed Defect,1
+62,Female,Typical angina,160,164,Normal,0,145,No,6.2,Downsloping,3,Normal,0
+63,Male,Typical angina,130,330,High,0,132,Yes,1.8,Upsloping,3,Normal,0
+66,Female,Non-anginal pain,146,278,Normal,0,152,No,0,Flat,1,Fixed Defect,1
+68,Male,Non-anginal pain,180,274,High,0,150,Yes,1.6,Flat,0,Normal,0
+40,Male,Typical angina,110,167,Normal,0,114,Yes,2,Flat,0,Normal,0
+66,Male,Typical angina,160,228,Normal,0,138,No,2.3,Upsloping,0,Reversible Defect,1
+63,Male,Asymptomatic,145,233,High,0,150,No,2.3,Downsloping,0,Reversible Defect,1
+49,Male,Non-anginal pain,120,188,Normal,1,139,No,2,Flat,3,Normal,0
+71,Female,Typical angina,112,149,Normal,1,125,No,1.6,Flat,0,Fixed Defect,1
+70,Male,Atypical angina,156,245,Normal,0,143,No,0,Upsloping,0,Fixed Defect,1
+46,Female,Atypical angina,105,204,Normal,1,172,No,0,Upsloping,0,Fixed Defect,1
+61,Male,Typical angina,140,207,Normal,0,138,Yes,1.9,Upsloping,1,Normal,0
+56,Male,Non-anginal pain,130,256,High,0,142,Yes,0.6,Flat,1,Reversible Defect,0
+58,Male,Non-anginal pain,140,211,High,0,165,No,0,Upsloping,0,Fixed Defect,1
+58,Male,Typical angina,100,234,Normal,1,156,No,0.1,Upsloping,1,Normal,0
+46,Female,Typical angina,138,243,Normal,0,152,Yes,0,Flat,0,Fixed Defect,1
+46,Male,Non-anginal pain,150,231,Normal,1,147,No,3.6,Flat,0,Fixed Defect,0
+41,Female,Atypical angina,105,198,Normal,1,168,No,0,Upsloping,1,Fixed Defect,1
+56,Male,Typical angina,125,249,High,0,144,Yes,1.2,Flat,1,Fixed Defect,0
+57,Male,Typical angina,150,276,Normal,0,112,Yes,0.6,Flat,1,Reversible Defect,0
+70,Male,Typical angina,130,322,Normal,0,109,No,2.4,Flat,3,Fixed Defect,0
+59,Male,Asymptomatic,170,288,Normal,0,159,No,0.2,Flat,0,Normal,0
+41,Female,Atypical angina,130,204,Normal,0,172,No,1.4,Upsloping,0,Fixed Defect,1
+54,Male,Non-anginal pain,125,273,Normal,0,152,No,0.5,Downsloping,1,Fixed Defect,1
+52,Male,Non-anginal pain,138,223,Normal,1,169,No,0,Upsloping,4,Fixed Defect,1
+62,Female,Typical angina,124,209,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+65,Female,Non-anginal pain,160,360,Normal,0,151,No,0.8,Upsloping,0,Fixed Defect,1
+57,Female,Typical angina,128,303,Normal,0,159,No,0,Upsloping,1,Fixed Defect,1
+42,Female,Typical angina,102,265,Normal,0,122,No,0.6,Flat,0,Fixed Defect,1
+57,Female,Typical angina,120,354,Normal,1,163,Yes,0.6,Upsloping,0,Fixed Defect,1
+58,Female,Atypical angina,136,319,High,0,152,No,0,Upsloping,2,Fixed Defect,0
+45,Male,Typical angina,142,309,Normal,0,147,Yes,0,Flat,3,Normal,0
+51,Female,Typical angina,130,305,Normal,1,142,Yes,1.2,Flat,0,Normal,0
+54,Female,Non-anginal pain,160,201,Normal,1,163,No,0,Upsloping,1,Fixed Defect,1
+57,Male,Non-anginal pain,150,168,Normal,1,174,No,1.6,Upsloping,0,Fixed Defect,1
+43,Male,Typical angina,132,247,High,0,143,Yes,0.1,Flat,4,Normal,0
+47,Male,Non-anginal pain,108,243,Normal,1,152,No,0,Upsloping,0,Fixed Defect,0
+67,Male,Non-anginal pain,152,212,Normal,0,150,No,0.8,Flat,0,Normal,0
+65,Female,Typical angina,150,225,Normal,0,114,No,1,Flat,3,Normal,0
+60,Female,Non-anginal pain,102,318,Normal,1,160,No,0,Upsloping,1,Fixed Defect,1
+37,Male,Non-anginal pain,130,250,Normal,1,187,No,3.5,Downsloping,0,Fixed Defect,1
+41,Female,Non-anginal pain,112,268,Normal,0,172,Yes,0,Upsloping,0,Fixed Defect,1
+57,Female,Typical angina,120,354,Normal,1,163,Yes,0.6,Upsloping,0,Fixed Defect,1
+59,Female,Typical angina,174,249,Normal,1,143,Yes,0,Flat,0,Fixed Defect,0
+67,Male,Typical angina,120,229,Normal,0,129,Yes,2.6,Flat,2,Normal,0
+47,Male,Non-anginal pain,130,253,Normal,1,179,No,0,Upsloping,0,Fixed Defect,1
+58,Male,Atypical angina,120,284,Normal,0,160,No,1.8,Flat,0,Fixed Defect,0
+62,Female,Typical angina,150,244,Normal,1,154,Yes,1.4,Flat,0,Fixed Defect,0
+60,Male,Typical angina,140,293,Normal,0,170,No,1.2,Flat,2,Normal,0
+57,Male,Typical angina,152,274,Normal,1,88,Yes,1.2,Flat,1,Normal,0
+57,Male,Non-anginal pain,150,168,Normal,1,174,No,1.6,Upsloping,0,Fixed Defect,1
+47,Male,Non-anginal pain,130,253,Normal,1,179,No,0,Upsloping,0,Fixed Defect,1
+52,Male,Atypical angina,128,205,High,1,184,No,0,Upsloping,0,Fixed Defect,1
+53,Male,Non-anginal pain,130,246,High,0,173,No,0,Upsloping,3,Fixed Defect,1
+55,Male,Typical angina,160,289,Normal,0,145,Yes,0.8,Flat,1,Normal,0
+51,Female,Non-anginal pain,120,295,Normal,0,157,No,0.6,Upsloping,0,Fixed Defect,1
+52,Male,Typical angina,112,230,Normal,1,160,No,0,Upsloping,1,Fixed Defect,0
+63,Female,Typical angina,150,407,Normal,0,154,No,4,Flat,3,Normal,0
+49,Female,Atypical angina,134,271,Normal,1,162,No,0,Flat,0,Fixed Defect,1
+66,Female,Typical angina,178,228,High,1,165,Yes,1,Flat,2,Normal,0
+49,Female,Atypical angina,134,271,Normal,1,162,No,0,Flat,0,Fixed Defect,1
+65,Female,Typical angina,150,225,Normal,0,114,No,1,Flat,3,Normal,0
+69,Male,Asymptomatic,160,234,High,0,131,No,0.1,Flat,1,Fixed Defect,1
+47,Male,Non-anginal pain,108,243,Normal,1,152,No,0,Upsloping,0,Fixed Defect,0
+39,Female,Non-anginal pain,138,220,Normal,1,152,No,0,Flat,0,Fixed Defect,1
+43,Male,Typical angina,150,247,Normal,1,171,No,1.5,Upsloping,0,Fixed Defect,1
+51,Male,Typical angina,140,261,Normal,0,186,Yes,0,Upsloping,0,Fixed Defect,1
+69,Male,Non-anginal pain,140,254,Normal,0,146,No,2,Flat,3,Normal,0
+48,Male,Non-anginal pain,124,255,High,1,175,No,0,Upsloping,2,Fixed Defect,1
+52,Male,Asymptomatic,118,186,Normal,0,190,No,0,Flat,0,Reversible Defect,1
+43,Male,Typical angina,110,211,Normal,1,161,No,0,Upsloping,0,Normal,1
+67,Female,Non-anginal pain,115,564,Normal,0,160,No,1.6,Flat,0,Normal,1
+38,Male,Non-anginal pain,138,175,Normal,1,173,No,0,Upsloping,4,Fixed Defect,1
+44,Male,Atypical angina,130,219,Normal,0,188,No,0,Upsloping,0,Fixed Defect,1
+47,Male,Typical angina,110,275,Normal,0,118,Yes,1,Flat,1,Fixed Defect,0
+61,Male,Non-anginal pain,150,243,High,1,137,Yes,1,Flat,0,Fixed Defect,1
+67,Male,Typical angina,160,286,Normal,0,108,Yes,1.5,Flat,3,Fixed Defect,0
+60,Female,Asymptomatic,150,240,Normal,1,171,No,0.9,Upsloping,0,Fixed Defect,1
+64,Female,Non-anginal pain,140,313,Normal,1,133,No,0.2,Upsloping,0,Normal,1
+58,Female,Typical angina,130,197,Normal,1,131,No,0.6,Flat,0,Fixed Defect,1
+41,Male,Non-anginal pain,130,214,Normal,0,168,No,2,Flat,0,Fixed Defect,1
+48,Male,Atypical angina,110,229,Normal,1,168,No,1,Downsloping,0,Normal,0
+57,Male,Non-anginal pain,150,126,High,1,173,No,0.2,Upsloping,1,Normal,1
+57,Male,Typical angina,165,289,High,0,124,No,1,Flat,3,Normal,0
+57,Male,Non-anginal pain,128,229,Normal,0,150,No,0.4,Flat,1,Normal,0
+39,Male,Non-anginal pain,140,321,Normal,0,182,No,0,Upsloping,0,Fixed Defect,1
+58,Male,Typical angina,128,216,Normal,0,131,Yes,2.2,Flat,3,Normal,0
+51,Female,Typical angina,130,305,Normal,1,142,Yes,1.2,Flat,0,Normal,0
+63,Female,Typical angina,150,407,Normal,0,154,No,4,Flat,3,Normal,0
+51,Male,Typical angina,140,298,Normal,1,122,Yes,4.2,Flat,3,Normal,0
+35,Male,Atypical angina,122,192,Normal,1,174,No,0,Upsloping,0,Fixed Defect,1
+65,Male,Typical angina,110,248,Normal,0,158,No,0.6,Upsloping,2,Reversible Defect,0
+62,Male,Atypical angina,120,281,Normal,0,103,No,1.4,Flat,1,Normal,0
+41,Male,Typical angina,110,172,Normal,0,158,No,0,Upsloping,0,Normal,0
+65,Male,Typical angina,135,254,Normal,0,127,No,2.8,Flat,1,Normal,0
+54,Female,Atypical angina,132,288,High,0,159,Yes,0,Upsloping,1,Fixed Defect,1
+61,Male,Non-anginal pain,150,243,High,1,137,Yes,1,Flat,0,Fixed Defect,1
+57,Female,Typical angina,128,303,Normal,0,159,No,0,Upsloping,1,Fixed Defect,1
+57,Male,Non-anginal pain,150,168,Normal,1,174,No,1.6,Upsloping,0,Fixed Defect,1
+64,Male,Non-anginal pain,125,309,Normal,1,131,Yes,1.8,Flat,0,Normal,0
+55,Male,Typical angina,132,353,Normal,1,132,Yes,1.2,Flat,1,Normal,0
+51,Male,Non-anginal pain,125,245,High,0,166,No,2.4,Flat,0,Fixed Defect,1
+59,Male,Typical angina,135,234,Normal,1,161,No,0.5,Flat,0,Normal,1
+68,Male,Non-anginal pain,180,274,High,0,150,Yes,1.6,Flat,0,Normal,0
+57,Male,Atypical angina,154,232,Normal,0,164,No,0,Upsloping,1,Fixed Defect,0
+54,Male,Typical angina,140,239,Normal,1,160,No,1.2,Upsloping,0,Fixed Defect,1
+46,Female,Non-anginal pain,142,177,Normal,0,160,Yes,1.4,Downsloping,0,Fixed Defect,1
+71,Female,Typical angina,112,149,Normal,1,125,No,1.6,Flat,0,Fixed Defect,1
+35,Female,Typical angina,138,183,Normal,1,182,No,1.4,Upsloping,0,Fixed Defect,1
+46,Female,Non-anginal pain,142,177,Normal,0,160,Yes,1.4,Downsloping,0,Fixed Defect,1
+45,Female,Atypical angina,130,234,Normal,0,175,No,0.6,Flat,0,Fixed Defect,1
+47,Male,Non-anginal pain,108,243,Normal,1,152,No,0,Upsloping,0,Fixed Defect,0
+44,Female,Non-anginal pain,118,242,Normal,1,149,No,0.3,Flat,1,Fixed Defect,1
+61,Male,Typical angina,120,260,Normal,1,140,Yes,3.6,Flat,1,Normal,0
+41,Female,Atypical angina,130,204,Normal,0,172,No,1.4,Upsloping,0,Fixed Defect,1
+56,Female,Typical angina,200,288,High,0,133,Yes,4,Downsloping,2,Normal,0
+55,Female,Typical angina,180,327,Normal,2,117,Yes,3.4,Flat,0,Fixed Defect,0
+54,Female,Atypical angina,132,288,High,0,159,Yes,0,Upsloping,1,Fixed Defect,1
+43,Male,Typical angina,120,177,Normal,0,120,Yes,2.5,Flat,0,Normal,0
+44,Male,Typical angina,112,290,Normal,0,153,No,0,Upsloping,1,Fixed Defect,0
+54,Male,Typical angina,110,206,Normal,0,108,Yes,0,Flat,1,Fixed Defect,0
+44,Male,Atypical angina,120,220,Normal,1,170,No,0,Upsloping,0,Fixed Defect,1
+49,Male,Non-anginal pain,120,188,Normal,1,139,No,2,Flat,3,Normal,0
+60,Male,Typical angina,130,206,Normal,0,132,Yes,2.4,Flat,2,Normal,0
+41,Female,Atypical angina,105,198,Normal,1,168,No,0,Upsloping,1,Fixed Defect,1
+49,Male,Non-anginal pain,120,188,Normal,1,139,No,2,Flat,3,Normal,0
+61,Male,Typical angina,148,203,Normal,1,161,No,0,Upsloping,1,Normal,0
+59,Male,Typical angina,140,177,Normal,1,162,Yes,0,Upsloping,1,Normal,0
+58,Male,Atypical angina,125,220,Normal,1,144,No,0.4,Flat,4,Normal,1
+67,Female,Non-anginal pain,152,277,Normal,1,172,No,0,Upsloping,1,Fixed Defect,1
+61,Male,Typical angina,148,203,Normal,1,161,No,0,Upsloping,1,Normal,0
+58,Male,Non-anginal pain,112,230,Normal,0,165,No,2.5,Flat,1,Normal,0
+51,Female,Non-anginal pain,130,256,Normal,0,149,No,0.5,Upsloping,0,Fixed Defect,1
+62,Female,Typical angina,160,164,Normal,0,145,No,6.2,Downsloping,3,Normal,0
+62,Female,Typical angina,124,209,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+59,Male,Asymptomatic,178,270,Normal,0,145,No,4.2,Downsloping,0,Normal,1
+69,Male,Asymptomatic,160,234,High,0,131,No,0.1,Flat,1,Fixed Defect,1
+60,Female,Typical angina,150,258,Normal,0,157,No,2.6,Flat,2,Normal,0
+65,Female,Non-anginal pain,155,269,Normal,1,148,No,0.8,Upsloping,0,Fixed Defect,1
+63,Female,Typical angina,124,197,Normal,1,136,Yes,0,Flat,0,Fixed Defect,0
+53,Female,Typical angina,138,234,Normal,0,160,No,0,Upsloping,0,Fixed Defect,1
+54,Female,Non-anginal pain,108,267,Normal,0,167,No,0,Upsloping,0,Fixed Defect,1
+76,Female,Non-anginal pain,140,197,Normal,2,116,No,1.1,Flat,0,Fixed Defect,1
+50,Female,Non-anginal pain,120,219,Normal,1,158,No,1.6,Flat,0,Fixed Defect,1
+52,Male,Atypical angina,120,325,Normal,1,172,No,0.2,Upsloping,0,Fixed Defect,1
+46,Male,Typical angina,120,249,Normal,0,144,No,0.8,Upsloping,0,Normal,0
+64,Male,Asymptomatic,170,227,Normal,0,155,No,0.6,Flat,0,Normal,1
+58,Male,Typical angina,128,259,Normal,0,130,Yes,3,Flat,2,Normal,0
+44,Male,Non-anginal pain,140,235,Normal,0,180,No,0,Upsloping,0,Fixed Defect,1
+62,Female,Typical angina,140,394,Normal,0,157,No,1.2,Flat,0,Fixed Defect,1
+59,Male,Asymptomatic,134,204,Normal,1,162,No,0.8,Upsloping,2,Fixed Defect,0
+54,Male,Non-anginal pain,125,273,Normal,0,152,No,0.5,Downsloping,1,Fixed Defect,1
+48,Male,Atypical angina,110,229,Normal,1,168,No,1,Downsloping,0,Normal,0
+70,Male,Typical angina,130,322,Normal,0,109,No,2.4,Flat,3,Fixed Defect,0
+67,Female,Typical angina,106,223,Normal,1,142,No,0.3,Upsloping,2,Fixed Defect,1
+51,Female,Non-anginal pain,120,295,Normal,0,157,No,0.6,Upsloping,0,Fixed Defect,1
+68,Male,Non-anginal pain,118,277,Normal,1,151,No,1,Upsloping,1,Normal,1
+69,Male,Non-anginal pain,140,254,Normal,0,146,No,2,Flat,3,Normal,0
+54,Male,Typical angina,122,286,Normal,0,116,Yes,3.2,Flat,2,Fixed Defect,0
+43,Female,Typical angina,132,341,High,0,136,Yes,3,Flat,0,Normal,0
+53,Male,Non-anginal pain,130,197,High,0,152,No,1.2,Downsloping,0,Fixed Defect,1
+58,Male,Typical angina,100,234,Normal,1,156,No,0.1,Upsloping,1,Normal,0
+67,Male,Typical angina,125,254,High,1,163,No,0.2,Flat,2,Normal,0
+59,Male,Typical angina,140,177,Normal,1,162,Yes,0,Upsloping,1,Normal,0
+48,Male,Typical angina,122,222,Normal,0,186,No,0,Upsloping,0,Fixed Defect,1
+39,Female,Non-anginal pain,94,199,Normal,1,179,No,0,Upsloping,0,Fixed Defect,1
+67,Male,Typical angina,120,237,Normal,1,71,No,1,Flat,0,Fixed Defect,0
+58,Female,Typical angina,130,197,Normal,1,131,No,0.6,Flat,0,Fixed Defect,1
+65,Female,Non-anginal pain,155,269,Normal,1,148,No,0.8,Upsloping,0,Fixed Defect,1
+42,Female,Non-anginal pain,120,209,Normal,1,173,No,0,Flat,0,Fixed Defect,1
+44,Male,Typical angina,112,290,Normal,0,153,No,0,Upsloping,1,Fixed Defect,0
+56,Male,Typical angina,132,184,Normal,0,105,Yes,2.1,Flat,1,Reversible Defect,0
+53,Female,Typical angina,138,234,Normal,0,160,No,0,Upsloping,0,Fixed Defect,1
+50,Female,Typical angina,110,254,Normal,0,159,No,0,Upsloping,0,Fixed Defect,1
+41,Male,Non-anginal pain,130,214,Normal,0,168,No,2,Flat,0,Fixed Defect,1
+54,Female,Non-anginal pain,160,201,Normal,1,163,No,0,Upsloping,1,Fixed Defect,1
+42,Male,Non-anginal pain,120,240,High,1,194,No,0.8,Downsloping,0,Normal,1
+54,Female,Non-anginal pain,135,304,High,1,170,No,0,Upsloping,0,Fixed Defect,1
+60,Male,Typical angina,145,282,Normal,0,142,Yes,2.8,Flat,2,Normal,0
+34,Male,Asymptomatic,118,182,Normal,0,174,No,0,Upsloping,0,Fixed Defect,1
+44,Male,Typical angina,112,290,Normal,0,153,No,0,Upsloping,1,Fixed Defect,0
+60,Male,Typical angina,125,258,Normal,0,141,Yes,2.8,Flat,1,Normal,0
+43,Male,Typical angina,150,247,Normal,1,171,No,1.5,Upsloping,0,Fixed Defect,1
+52,Male,Asymptomatic,152,298,High,1,178,No,1.2,Flat,0,Normal,1
+70,Male,Typical angina,130,322,Normal,0,109,No,2.4,Flat,3,Fixed Defect,0
+62,Female,Typical angina,140,394,Normal,0,157,No,1.2,Flat,0,Fixed Defect,1
+58,Male,Typical angina,146,218,Normal,1,105,No,2,Flat,1,Normal,0
+46,Male,Atypical angina,101,197,High,1,156,No,0,Upsloping,0,Normal,1
+44,Male,Non-anginal pain,140,235,Normal,0,180,No,0,Upsloping,0,Fixed Defect,1
+55,Male,Atypical angina,130,262,Normal,1,155,No,0,Upsloping,0,Fixed Defect,1
+43,Male,Typical angina,120,177,Normal,0,120,Yes,2.5,Flat,0,Normal,0
+55,Male,Typical angina,132,353,Normal,1,132,Yes,1.2,Flat,1,Normal,0
+40,Male,Asymptomatic,140,199,Normal,1,178,Yes,1.4,Upsloping,0,Normal,1
+64,Male,Non-anginal pain,125,309,Normal,1,131,Yes,1.8,Flat,0,Normal,0
+59,Male,Typical angina,164,176,High,0,90,No,1,Flat,2,Reversible Defect,0
+61,Female,Typical angina,145,307,Normal,0,146,Yes,1,Flat,0,Normal,0
+54,Male,Typical angina,122,286,Normal,0,116,Yes,3.2,Flat,2,Fixed Defect,0
+74,Female,Atypical angina,120,269,Normal,0,121,Yes,0.2,Upsloping,1,Fixed Defect,1
+63,Female,Typical angina,108,269,Normal,1,169,Yes,1.8,Flat,2,Fixed Defect,0
+70,Male,Non-anginal pain,160,269,Normal,1,112,Yes,2.9,Flat,1,Normal,0
+63,Female,Typical angina,108,269,Normal,1,169,Yes,1.8,Flat,2,Fixed Defect,0
+64,Male,Typical angina,145,212,Normal,0,132,No,2,Flat,2,Reversible Defect,0
+61,Male,Typical angina,148,203,Normal,1,161,No,0,Upsloping,1,Normal,0
+59,Male,Atypical angina,140,221,Normal,1,164,Yes,0,Upsloping,0,Fixed Defect,1
+38,Male,Non-anginal pain,138,175,Normal,1,173,No,0,Upsloping,4,Fixed Defect,1
+58,Male,Atypical angina,120,284,Normal,0,160,No,1.8,Flat,0,Fixed Defect,0
+63,Female,Atypical angina,140,195,Normal,1,179,No,0,Upsloping,2,Fixed Defect,1
+62,Female,Non-anginal pain,130,263,Normal,1,97,No,1.2,Flat,1,Normal,0
+46,Male,Typical angina,140,311,Normal,1,120,Yes,1.8,Flat,2,Normal,0
+58,Female,Non-anginal pain,120,340,Normal,1,172,No,0,Upsloping,0,Fixed Defect,1
+63,Female,Atypical angina,140,195,Normal,1,179,No,0,Upsloping,2,Fixed Defect,1
+47,Male,Non-anginal pain,130,253,Normal,1,179,No,0,Upsloping,0,Fixed Defect,1
+71,Female,Non-anginal pain,110,265,High,0,130,No,0,Upsloping,1,Fixed Defect,1
+66,Male,Typical angina,112,212,Normal,0,132,Yes,0.1,Upsloping,1,Fixed Defect,0
+42,Male,Typical angina,136,315,Normal,1,125,Yes,1.8,Flat,0,Reversible Defect,0
+64,Male,Typical angina,145,212,Normal,0,132,No,2,Flat,2,Reversible Defect,0
+55,Female,Typical angina,180,327,Normal,2,117,Yes,3.4,Flat,0,Fixed Defect,0
+43,Female,Typical angina,132,341,High,0,136,Yes,3,Flat,0,Normal,0
+55,Female,Typical angina,128,205,Normal,2,130,Yes,2,Flat,1,Normal,0
+58,Female,Typical angina,170,225,High,0,146,Yes,2.8,Flat,2,Reversible Defect,0
+55,Male,Typical angina,140,217,Normal,1,111,Yes,5.6,Downsloping,0,Normal,0
+51,Female,Typical angina,130,305,Normal,1,142,Yes,1.2,Flat,0,Normal,0
+50,Female,Non-anginal pain,120,219,Normal,1,158,No,1.6,Flat,0,Fixed Defect,1
+43,Male,Typical angina,115,303,Normal,1,181,No,1.2,Flat,0,Fixed Defect,1
+41,Female,Atypical angina,126,306,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+49,Male,Atypical angina,130,266,Normal,1,171,No,0.6,Upsloping,0,Fixed Defect,1
+65,Male,Typical angina,110,248,Normal,0,158,No,0.6,Upsloping,2,Reversible Defect,0
+57,Male,Typical angina,152,274,Normal,1,88,Yes,1.2,Flat,1,Normal,0
+48,Male,Typical angina,130,256,High,0,150,Yes,0,Upsloping,2,Normal,0
+62,Female,Typical angina,138,294,High,1,106,No,1.9,Flat,3,Fixed Defect,0
+61,Male,Asymptomatic,134,234,Normal,1,145,No,2.6,Flat,2,Fixed Defect,0
+59,Male,Asymptomatic,178,270,Normal,0,145,No,4.2,Downsloping,0,Normal,1
+69,Male,Non-anginal pain,140,254,Normal,0,146,No,2,Flat,3,Normal,0
+58,Male,Non-anginal pain,132,224,Normal,0,173,No,3.2,Upsloping,2,Normal,0
+38,Male,Asymptomatic,120,231,Normal,1,182,Yes,3.8,Flat,0,Normal,0
+69,Female,Asymptomatic,140,239,Normal,1,151,No,1.8,Upsloping,2,Fixed Defect,1
+65,Male,Asymptomatic,138,282,High,0,174,No,1.4,Flat,1,Fixed Defect,0
+45,Male,Asymptomatic,110,264,Normal,1,132,No,1.2,Flat,0,Normal,0
+49,Male,Atypical angina,130,266,Normal,1,171,No,0.6,Upsloping,0,Fixed Defect,1
+45,Female,Atypical angina,130,234,Normal,0,175,No,0.6,Flat,0,Fixed Defect,1
+61,Male,Typical angina,138,166,Normal,0,125,Yes,3.6,Flat,1,Fixed Defect,0
+52,Male,Typical angina,125,212,Normal,1,168,No,1,Upsloping,2,Normal,0
+53,Female,Typical angina,130,264,Normal,0,143,No,0.4,Flat,0,Fixed Defect,1
+59,Female,Typical angina,174,249,Normal,1,143,Yes,0,Flat,0,Fixed Defect,0
+58,Female,Non-anginal pain,120,340,Normal,1,172,No,0,Upsloping,0,Fixed Defect,1
+65,Male,Asymptomatic,138,282,High,0,174,No,1.4,Flat,1,Fixed Defect,0
+58,Female,Typical angina,130,197,Normal,1,131,No,0.6,Flat,0,Fixed Defect,1
+46,Female,Typical angina,138,243,Normal,0,152,Yes,0,Flat,0,Fixed Defect,1
+56,Female,Typical angina,134,409,Normal,0,150,Yes,1.9,Flat,2,Normal,0
+64,Male,Typical angina,128,263,Normal,1,105,Yes,0.2,Flat,1,Normal,1
+65,Male,Typical angina,120,177,Normal,1,140,No,0.4,Upsloping,0,Normal,1
+44,Male,Non-anginal pain,120,226,Normal,1,169,No,0,Upsloping,0,Fixed Defect,1
+50,Male,Typical angina,150,243,Normal,0,128,No,2.6,Flat,0,Normal,0
+47,Male,Non-anginal pain,108,243,Normal,1,152,No,0,Upsloping,0,Fixed Defect,0
+64,Female,Typical angina,130,303,Normal,1,122,No,2,Flat,2,Fixed Defect,1
+71,Female,Typical angina,112,149,Normal,1,125,No,1.6,Flat,0,Fixed Defect,1
+45,Female,Atypical angina,130,234,Normal,0,175,No,0.6,Flat,0,Fixed Defect,1
+62,Male,Typical angina,120,267,Normal,1,99,Yes,1.8,Flat,2,Normal,0
+41,Male,Atypical angina,120,157,Normal,1,182,No,0,Upsloping,0,Fixed Defect,1
+66,Female,Asymptomatic,150,226,Normal,1,114,No,2.6,Downsloping,0,Fixed Defect,1
+56,Male,Typical angina,130,283,High,0,103,Yes,1.6,Downsloping,0,Normal,0
+41,Female,Atypical angina,126,306,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+41,Male,Atypical angina,110,235,Normal,1,153,No,0,Upsloping,0,Fixed Defect,1
+57,Female,Atypical angina,130,236,Normal,0,174,No,0,Flat,1,Fixed Defect,0
+39,Female,Non-anginal pain,138,220,Normal,1,152,No,0,Flat,0,Fixed Defect,1
+64,Male,Non-anginal pain,125,309,Normal,1,131,Yes,1.8,Flat,0,Normal,0
+59,Male,Typical angina,138,271,Normal,0,182,No,0,Upsloping,0,Fixed Defect,1
+61,Male,Typical angina,138,166,Normal,0,125,Yes,3.6,Flat,1,Fixed Defect,0
+58,Male,Typical angina,114,318,Normal,2,140,No,4.4,Downsloping,3,Reversible Defect,0
+47,Male,Typical angina,112,204,Normal,1,143,No,0.1,Upsloping,0,Fixed Defect,1
+58,Female,Typical angina,100,248,Normal,0,122,No,1,Flat,0,Fixed Defect,1
+66,Female,Asymptomatic,150,226,Normal,1,114,No,2.6,Downsloping,0,Fixed Defect,1
+65,Female,Non-anginal pain,140,417,High,0,157,No,0.8,Upsloping,1,Fixed Defect,1
+35,Male,Atypical angina,122,192,Normal,1,174,No,0,Upsloping,0,Fixed Defect,1
+57,Male,Atypical angina,124,261,Normal,1,141,No,0.3,Upsloping,0,Normal,0
+29,Male,Atypical angina,130,204,Normal,0,202,No,0,Upsloping,0,Fixed Defect,1
+66,Male,Atypical angina,160,246,Normal,1,120,Yes,0,Flat,3,Reversible Defect,0
+61,Female,Typical angina,130,330,Normal,0,169,No,0,Upsloping,0,Fixed Defect,0
+52,Male,Typical angina,125,212,Normal,1,168,No,1,Upsloping,2,Normal,0
+68,Male,Non-anginal pain,118,277,Normal,1,151,No,1,Upsloping,1,Normal,1
+54,Male,Non-anginal pain,120,258,Normal,0,147,No,0.4,Flat,0,Normal,1
+63,Male,Typical angina,130,330,High,0,132,Yes,1.8,Upsloping,3,Normal,0
+58,Male,Typical angina,100,234,Normal,1,156,No,0.1,Upsloping,1,Normal,0
+60,Male,Typical angina,130,253,Normal,1,144,Yes,1.4,Upsloping,1,Normal,0
+63,Male,Typical angina,130,254,Normal,0,147,No,1.4,Flat,1,Normal,0
+41,Female,Non-anginal pain,112,268,Normal,0,172,Yes,0,Upsloping,0,Fixed Defect,1
+68,Male,Non-anginal pain,180,274,High,0,150,Yes,1.6,Flat,0,Normal,0
+42,Male,Atypical angina,120,295,Normal,1,162,No,0,Upsloping,0,Fixed Defect,1
+59,Male,Typical angina,170,326,Normal,0,140,Yes,3.4,Downsloping,0,Normal,0
+59,Male,Typical angina,164,176,High,0,90,No,1,Flat,2,Reversible Defect,0
+43,Male,Typical angina,120,177,Normal,0,120,Yes,2.5,Flat,0,Normal,0
+60,Male,Non-anginal pain,140,185,Normal,0,155,No,3,Flat,0,Fixed Defect,0
+63,Female,Typical angina,150,407,Normal,0,154,No,4,Flat,3,Normal,0
+52,Male,Typical angina,128,204,High,1,156,Yes,1,Flat,0,Normal,0
+58,Male,Typical angina,125,300,Normal,0,171,No,0,Upsloping,2,Normal,0
+56,Female,Typical angina,200,288,High,0,133,Yes,4,Downsloping,2,Normal,0
+54,Female,Non-anginal pain,135,304,High,1,170,No,0,Upsloping,0,Fixed Defect,1
+58,Male,Non-anginal pain,105,240,Normal,0,154,Yes,0.6,Flat,0,Normal,1
+55,Female,Atypical angina,135,250,Normal,0,161,No,1.4,Flat,0,Fixed Defect,1
+53,Male,Typical angina,140,203,High,0,155,Yes,3.1,Downsloping,0,Normal,0
+63,Female,Atypical angina,140,195,Normal,1,179,No,0,Upsloping,2,Fixed Defect,1
+39,Male,Typical angina,118,219,Normal,1,140,No,1.2,Flat,0,Normal,0
+35,Male,Typical angina,126,282,Normal,0,156,Yes,0,Upsloping,0,Normal,0
+50,Female,Non-anginal pain,120,219,Normal,1,158,No,1.6,Flat,0,Fixed Defect,1
+67,Male,Non-anginal pain,152,212,Normal,0,150,No,0.8,Flat,0,Normal,0
+66,Male,Typical angina,112,212,Normal,0,132,Yes,0.1,Upsloping,1,Fixed Defect,0
+35,Male,Typical angina,126,282,Normal,0,156,Yes,0,Upsloping,0,Normal,0
+41,Male,Non-anginal pain,130,214,Normal,0,168,No,2,Flat,0,Fixed Defect,1
+35,Male,Typical angina,120,198,Normal,1,130,Yes,1.6,Flat,0,Normal,0
+71,Female,Atypical angina,160,302,Normal,1,162,No,0.4,Upsloping,2,Fixed Defect,1
+57,Male,Typical angina,110,201,Normal,1,126,Yes,1.5,Flat,0,Reversible Defect,1
+51,Male,Non-anginal pain,94,227,Normal,1,154,Yes,0,Upsloping,1,Normal,1
+58,Male,Typical angina,128,216,Normal,0,131,Yes,2.2,Flat,3,Normal,0
+57,Male,Non-anginal pain,128,229,Normal,0,150,No,0.4,Flat,1,Normal,0
+56,Female,Atypical angina,140,294,Normal,0,153,No,1.3,Flat,0,Fixed Defect,1
+60,Female,Non-anginal pain,120,178,High,1,96,No,0,Upsloping,0,Fixed Defect,1
+45,Male,Asymptomatic,110,264,Normal,1,132,No,1.2,Flat,0,Normal,0
+56,Male,Atypical angina,130,221,Normal,0,163,No,0,Upsloping,0,Normal,1
+35,Male,Typical angina,120,198,Normal,1,130,Yes,1.6,Flat,0,Normal,0
+45,Female,Atypical angina,112,160,Normal,1,138,No,0,Flat,0,Fixed Defect,1
+66,Female,Asymptomatic,150,226,Normal,1,114,No,2.6,Downsloping,0,Fixed Defect,1
+51,Male,Asymptomatic,125,213,Normal,0,125,Yes,1.4,Upsloping,1,Fixed Defect,1
+70,Male,Atypical angina,156,245,Normal,0,143,No,0,Upsloping,0,Fixed Defect,1
+55,Female,Typical angina,128,205,Normal,2,130,Yes,2,Flat,1,Normal,0
+56,Male,Non-anginal pain,130,256,High,0,142,Yes,0.6,Flat,1,Reversible Defect,0
+55,Female,Atypical angina,135,250,Normal,0,161,No,1.4,Flat,0,Fixed Defect,1
+52,Male,Typical angina,108,233,High,1,147,No,0.1,Upsloping,3,Normal,1
+64,Male,Non-anginal pain,140,335,Normal,1,158,No,0,Upsloping,0,Fixed Defect,0
+45,Male,Typical angina,115,260,Normal,0,185,No,0,Upsloping,0,Fixed Defect,1
+67,Female,Non-anginal pain,152,277,Normal,1,172,No,0,Upsloping,1,Fixed Defect,1
+68,Female,Non-anginal pain,120,211,Normal,0,115,No,1.5,Flat,0,Fixed Defect,1
+74,Female,Atypical angina,120,269,Normal,0,121,Yes,0.2,Upsloping,1,Fixed Defect,1
+60,Female,Typical angina,150,258,Normal,0,157,No,2.6,Flat,2,Normal,0
+48,Male,Typical angina,124,274,Normal,0,166,No,0.5,Flat,0,Normal,0
+56,Male,Atypical angina,130,221,Normal,0,163,No,0,Upsloping,0,Normal,1
+46,Male,Typical angina,140,311,Normal,1,120,Yes,1.8,Flat,2,Normal,0
+55,Female,Atypical angina,135,250,Normal,0,161,No,1.4,Flat,0,Fixed Defect,1
+44,Male,Atypical angina,120,220,Normal,1,170,No,0,Upsloping,0,Fixed Defect,1
+52,Male,Typical angina,112,230,Normal,1,160,No,0,Upsloping,1,Fixed Defect,0
+51,Male,Non-anginal pain,94,227,Normal,1,154,Yes,0,Upsloping,1,Normal,1
+44,Female,Non-anginal pain,108,141,Normal,1,175,No,0.6,Flat,0,Fixed Defect,1
+52,Male,Typical angina,128,204,High,1,156,Yes,1,Flat,0,Normal,0
+50,Male,Non-anginal pain,129,196,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+59,Male,Typical angina,110,239,Normal,0,142,Yes,1.2,Flat,1,Normal,0
+67,Male,Typical angina,120,229,Normal,0,129,Yes,2.6,Flat,2,Normal,0
+58,Male,Typical angina,125,300,Normal,0,171,No,0,Upsloping,2,Normal,0
+52,Male,Typical angina,128,255,Normal,1,161,Yes,0,Upsloping,1,Normal,0
+44,Male,Non-anginal pain,140,235,Normal,0,180,No,0,Upsloping,0,Fixed Defect,1
+41,Female,Non-anginal pain,112,268,Normal,0,172,Yes,0,Upsloping,0,Fixed Defect,1
+63,Male,Typical angina,130,330,High,0,132,Yes,1.8,Upsloping,3,Normal,0
+58,Male,Atypical angina,125,220,Normal,1,144,No,0.4,Flat,4,Normal,1
+60,Female,Non-anginal pain,102,318,Normal,1,160,No,0,Upsloping,1,Fixed Defect,1
+51,Male,Non-anginal pain,100,222,Normal,1,143,Yes,1.2,Flat,0,Fixed Defect,1
+64,Male,Non-anginal pain,140,335,Normal,1,158,No,0,Upsloping,0,Fixed Defect,0
+60,Male,Typical angina,117,230,High,1,160,Yes,1.4,Upsloping,2,Normal,0
+44,Male,Non-anginal pain,120,226,Normal,1,169,No,0,Upsloping,0,Fixed Defect,1
+58,Male,Atypical angina,125,220,Normal,1,144,No,0.4,Flat,4,Normal,1
+55,Male,Atypical angina,130,262,Normal,1,155,No,0,Upsloping,0,Fixed Defect,1
+65,Female,Non-anginal pain,160,360,Normal,0,151,No,0.8,Upsloping,0,Fixed Defect,1
+48,Male,Atypical angina,130,245,Normal,0,180,No,0.2,Flat,0,Fixed Defect,1
+65,Male,Typical angina,120,177,Normal,1,140,No,0.4,Upsloping,0,Normal,1
+51,Female,Non-anginal pain,130,256,Normal,0,149,No,0.5,Upsloping,0,Fixed Defect,1
+48,Male,Non-anginal pain,124,255,High,1,175,No,0,Upsloping,2,Fixed Defect,1
+64,Male,Typical angina,120,246,Normal,0,96,Yes,2.2,Downsloping,1,Fixed Defect,0
+66,Male,Typical angina,160,228,Normal,0,138,No,2.3,Upsloping,0,Reversible Defect,1
+46,Female,Atypical angina,105,204,Normal,1,172,No,0,Upsloping,0,Fixed Defect,1
+61,Female,Typical angina,130,330,Normal,0,169,No,0,Upsloping,0,Fixed Defect,0
+57,Male,Typical angina,150,276,Normal,0,112,Yes,0.6,Flat,1,Reversible Defect,0
+49,Female,Typical angina,130,269,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+56,Male,Atypical angina,130,221,Normal,0,163,No,0,Upsloping,0,Normal,1
+58,Female,Asymptomatic,150,283,High,0,162,No,1,Upsloping,0,Fixed Defect,1
+63,Male,Typical angina,140,187,Normal,0,144,Yes,4,Upsloping,2,Normal,0
+57,Male,Typical angina,110,335,Normal,1,143,Yes,3,Flat,1,Normal,0
+57,Male,Typical angina,110,335,Normal,1,143,Yes,3,Flat,1,Normal,0
+68,Male,Typical angina,144,193,High,1,141,No,3.4,Flat,2,Normal,0
+46,Male,Atypical angina,101,197,High,1,156,No,0,Upsloping,0,Normal,1
+71,Female,Non-anginal pain,110,265,High,0,130,No,0,Upsloping,1,Fixed Defect,1
+41,Male,Atypical angina,135,203,Normal,1,132,No,0,Flat,0,Reversible Defect,1
+45,Female,Typical angina,138,236,Normal,0,152,Yes,0.2,Flat,0,Fixed Defect,1
+62,Female,Typical angina,150,244,Normal,1,154,Yes,1.4,Flat,0,Fixed Defect,0
+65,Female,Typical angina,150,225,Normal,0,114,No,1,Flat,3,Normal,0
+48,Female,Non-anginal pain,130,275,Normal,1,139,No,0.2,Upsloping,0,Fixed Defect,1
+51,Male,Non-anginal pain,100,222,Normal,1,143,Yes,1.2,Flat,0,Fixed Defect,1
+61,Female,Typical angina,145,307,Normal,0,146,Yes,1,Flat,0,Normal,0
+53,Male,Typical angina,123,282,Normal,1,95,Yes,2,Flat,2,Normal,0
+59,Male,Asymptomatic,134,204,Normal,1,162,No,0.8,Upsloping,2,Fixed Defect,0
+34,Female,Atypical angina,118,210,Normal,1,192,No,0.7,Upsloping,0,Fixed Defect,1
+44,Male,Typical angina,120,169,Normal,1,144,Yes,2.8,Downsloping,0,Reversible Defect,0
+58,Male,Typical angina,146,218,Normal,1,105,No,2,Flat,1,Normal,0
+64,Female,Typical angina,130,303,Normal,1,122,No,2,Flat,2,Fixed Defect,1
+56,Male,Atypical angina,120,240,Normal,1,169,No,0,Downsloping,0,Fixed Defect,1
+54,Male,Non-anginal pain,150,232,Normal,0,165,No,1.6,Upsloping,0,Normal,1
+55,Male,Typical angina,160,289,Normal,0,145,Yes,0.8,Flat,1,Normal,0
+67,Male,Typical angina,125,254,High,1,163,No,0.2,Flat,2,Normal,0
+51,Male,Typical angina,140,298,Normal,1,122,Yes,4.2,Flat,3,Normal,0
+62,Female,Typical angina,138,294,High,1,106,No,1.9,Flat,3,Fixed Defect,0
+62,Male,Atypical angina,120,281,Normal,0,103,No,1.4,Flat,1,Normal,0
+54,Male,Typical angina,110,239,Normal,1,126,Yes,2.8,Flat,1,Normal,0
+54,Male,Typical angina,110,239,Normal,1,126,Yes,2.8,Flat,1,Normal,0
+68,Male,Typical angina,144,193,High,1,141,No,3.4,Flat,2,Normal,0
+60,Female,Non-anginal pain,120,178,High,1,96,No,0,Upsloping,0,Fixed Defect,1
+61,Male,Asymptomatic,134,234,Normal,1,145,No,2.6,Flat,2,Fixed Defect,0
+62,Male,Atypical angina,128,208,High,0,140,No,0,Upsloping,0,Fixed Defect,1
+41,Male,Atypical angina,135,203,Normal,1,132,No,0,Flat,0,Reversible Defect,1
+65,Female,Typical angina,150,225,Normal,0,114,No,1,Flat,3,Normal,0
+59,Male,Asymptomatic,170,288,Normal,0,159,No,0.2,Flat,0,Normal,0
+43,Male,Typical angina,115,303,Normal,1,181,No,1.2,Flat,0,Fixed Defect,1
+67,Male,Typical angina,120,229,Normal,0,129,Yes,2.6,Flat,2,Normal,0
+63,Male,Asymptomatic,145,233,High,0,150,No,2.3,Downsloping,0,Reversible Defect,1
+63,Female,Typical angina,124,197,Normal,1,136,Yes,0,Flat,0,Fixed Defect,0
+52,Male,Typical angina,112,230,Normal,1,160,No,0,Upsloping,1,Fixed Defect,0
+58,Female,Typical angina,130,197,Normal,1,131,No,0.6,Flat,0,Fixed Defect,1
+53,Male,Typical angina,142,226,Normal,0,111,Yes,0,Upsloping,0,Normal,1
+57,Male,Typical angina,150,276,Normal,0,112,Yes,0.6,Flat,1,Reversible Defect,0
+44,Male,Non-anginal pain,130,233,Normal,1,179,Yes,0.4,Upsloping,0,Fixed Defect,1
+51,Male,Non-anginal pain,94,227,Normal,1,154,Yes,0,Upsloping,1,Normal,1
+54,Female,Non-anginal pain,110,214,Normal,1,158,No,1.6,Flat,0,Fixed Defect,1
+40,Male,Typical angina,110,167,Normal,0,114,Yes,2,Flat,0,Normal,0
+57,Male,Atypical angina,124,261,Normal,1,141,No,0.3,Upsloping,0,Normal,0
+62,Female,Typical angina,140,268,Normal,0,160,No,3.6,Downsloping,2,Fixed Defect,0
+53,Male,Typical angina,140,203,High,0,155,Yes,3.1,Downsloping,0,Normal,0
+62,Male,Atypical angina,128,208,High,0,140,No,0,Upsloping,0,Fixed Defect,1
+58,Male,Non-anginal pain,105,240,Normal,0,154,Yes,0.6,Flat,0,Normal,1
+70,Male,Atypical angina,156,245,Normal,0,143,No,0,Upsloping,0,Fixed Defect,1
+45,Male,Typical angina,115,260,Normal,0,185,No,0,Upsloping,0,Fixed Defect,1
+42,Male,Asymptomatic,148,244,Normal,0,178,No,0.8,Upsloping,2,Fixed Defect,1
+58,Female,Typical angina,170,225,High,0,146,Yes,2.8,Flat,2,Reversible Defect,0
+61,Male,Typical angina,140,207,Normal,0,138,Yes,1.9,Upsloping,1,Normal,0
+62,Female,Typical angina,140,268,Normal,0,160,No,3.6,Downsloping,2,Fixed Defect,0
+60,Male,Typical angina,130,253,Normal,1,144,Yes,1.4,Upsloping,1,Normal,0
+54,Male,Typical angina,140,239,Normal,1,160,No,1.2,Upsloping,0,Fixed Defect,1
+61,Male,Typical angina,138,166,Normal,0,125,Yes,3.6,Flat,1,Fixed Defect,0
+63,Female,Non-anginal pain,135,252,Normal,0,172,No,0,Upsloping,0,Fixed Defect,1
+42,Male,Non-anginal pain,130,180,Normal,1,150,No,0,Upsloping,0,Fixed Defect,1
+57,Male,Non-anginal pain,128,229,Normal,0,150,No,0.4,Flat,1,Normal,0
+44,Male,Non-anginal pain,130,233,Normal,1,179,Yes,0.4,Upsloping,0,Fixed Defect,1
+54,Male,Typical angina,124,266,Normal,0,109,Yes,2.2,Flat,1,Normal,0
+51,Male,Non-anginal pain,100,222,Normal,1,143,Yes,1.2,Flat,0,Fixed Defect,1
+58,Male,Atypical angina,125,220,Normal,1,144,No,0.4,Flat,4,Normal,1
+68,Male,Non-anginal pain,118,277,Normal,1,151,No,1,Upsloping,1,Normal,1
+55,Male,Typical angina,140,217,Normal,1,111,Yes,5.6,Downsloping,0,Normal,0
+42,Male,Typical angina,136,315,Normal,1,125,Yes,1.8,Flat,0,Reversible Defect,0
+49,Male,Non-anginal pain,118,149,Normal,0,126,No,0.8,Upsloping,3,Fixed Defect,0
+53,Female,Typical angina,138,234,Normal,0,160,No,0,Upsloping,0,Fixed Defect,1
+52,Male,Non-anginal pain,172,199,High,1,162,No,0.5,Upsloping,0,Normal,1
+51,Male,Asymptomatic,125,213,Normal,0,125,Yes,1.4,Upsloping,1,Fixed Defect,1
+51,Male,Typical angina,140,261,Normal,0,186,Yes,0,Upsloping,0,Fixed Defect,1
+70,Male,Typical angina,145,174,Normal,1,125,Yes,2.6,Downsloping,0,Normal,0
+35,Female,Typical angina,138,183,Normal,1,182,No,1.4,Upsloping,0,Fixed Defect,1
+58,Male,Non-anginal pain,112,230,Normal,0,165,No,2.5,Flat,1,Normal,0
+59,Male,Asymptomatic,160,273,Normal,0,125,No,0,Upsloping,0,Fixed Defect,0
+60,Male,Typical angina,140,293,Normal,0,170,No,1.2,Flat,2,Normal,0
+56,Male,Typical angina,132,184,Normal,0,105,Yes,2.1,Flat,1,Reversible Defect,0
+35,Female,Typical angina,138,183,Normal,1,182,No,1.4,Upsloping,0,Fixed Defect,1
+61,Male,Typical angina,138,166,Normal,0,125,Yes,3.6,Flat,1,Fixed Defect,0
+58,Female,Asymptomatic,150,283,High,0,162,No,1,Upsloping,0,Fixed Defect,1
+52,Male,Typical angina,128,255,Normal,1,161,Yes,0,Upsloping,1,Normal,0
+58,Male,Atypical angina,120,284,Normal,0,160,No,1.8,Flat,0,Fixed Defect,0
+37,Male,Non-anginal pain,130,250,Normal,1,187,No,3.5,Downsloping,0,Fixed Defect,1
+52,Male,Typical angina,128,255,Normal,1,161,Yes,0,Upsloping,1,Normal,0
+67,Male,Typical angina,120,229,Normal,0,129,Yes,2.6,Flat,2,Normal,0
+65,Male,Asymptomatic,138,282,High,0,174,No,1.4,Flat,1,Fixed Defect,0
+46,Male,Atypical angina,101,197,High,1,156,No,0,Upsloping,0,Normal,1
+68,Female,Non-anginal pain,120,211,Normal,0,115,No,1.5,Flat,0,Fixed Defect,1
+43,Male,Typical angina,115,303,Normal,1,181,No,1.2,Flat,0,Fixed Defect,1
+68,Female,Non-anginal pain,120,211,Normal,0,115,No,1.5,Flat,0,Fixed Defect,1
+51,Male,Typical angina,140,299,Normal,1,173,Yes,1.6,Upsloping,0,Normal,0
+52,Male,Typical angina,112,230,Normal,1,160,No,0,Upsloping,1,Fixed Defect,0
+64,Male,Non-anginal pain,140,335,Normal,1,158,No,0,Upsloping,0,Fixed Defect,0
+59,Male,Asymptomatic,170,288,Normal,0,159,No,0.2,Flat,0,Normal,0
+52,Male,Typical angina,125,212,Normal,1,168,No,1,Upsloping,2,Normal,0
+59,Male,Asymptomatic,160,273,Normal,0,125,No,0,Upsloping,0,Fixed Defect,0
+60,Female,Asymptomatic,150,240,Normal,1,171,No,0.9,Upsloping,0,Fixed Defect,1
+41,Male,Non-anginal pain,112,250,Normal,1,179,No,0,Upsloping,0,Fixed Defect,1
+41,Male,Atypical angina,110,235,Normal,1,153,No,0,Upsloping,0,Fixed Defect,1
+56,Male,Atypical angina,120,240,Normal,1,169,No,0,Downsloping,0,Fixed Defect,1
+56,Male,Atypical angina,120,236,Normal,1,178,No,0.8,Upsloping,0,Fixed Defect,1
+48,Female,Non-anginal pain,130,275,Normal,1,139,No,0.2,Upsloping,0,Fixed Defect,1
+39,Male,Non-anginal pain,140,321,Normal,0,182,No,0,Upsloping,0,Fixed Defect,1
+64,Male,Asymptomatic,170,227,Normal,0,155,No,0.6,Flat,0,Normal,1
+57,Male,Typical angina,140,192,Normal,1,148,No,0.4,Flat,0,Reversible Defect,1
+59,Male,Asymptomatic,160,273,Normal,0,125,No,0,Upsloping,0,Fixed Defect,0
+60,Male,Typical angina,130,206,Normal,0,132,Yes,2.4,Flat,2,Normal,0
+61,Male,Typical angina,140,207,Normal,0,138,Yes,1.9,Upsloping,1,Normal,0
+43,Female,Non-anginal pain,122,213,Normal,1,165,No,0.2,Flat,0,Fixed Defect,1
+54,Male,Typical angina,120,188,Normal,1,113,No,1.4,Flat,1,Normal,0
+59,Male,Typical angina,138,271,Normal,0,182,No,0,Upsloping,0,Fixed Defect,1
+57,Male,Typical angina,132,207,Normal,1,168,Yes,0,Upsloping,0,Normal,1
+57,Male,Atypical angina,154,232,Normal,0,164,No,0,Upsloping,1,Fixed Defect,0
+57,Male,Typical angina,130,131,Normal,1,115,Yes,1.2,Flat,1,Normal,0
+48,Male,Typical angina,124,274,Normal,0,166,No,0.5,Flat,0,Normal,0
+70,Male,Typical angina,145,174,Normal,1,125,Yes,2.6,Downsloping,0,Normal,0
+57,Male,Typical angina,165,289,High,0,124,No,1,Flat,3,Normal,0
+61,Male,Typical angina,120,260,Normal,1,140,Yes,3.6,Flat,1,Normal,0
+57,Male,Typical angina,110,201,Normal,1,126,Yes,1.5,Flat,0,Reversible Defect,1
+60,Female,Typical angina,150,258,Normal,0,157,No,2.6,Flat,2,Normal,0
+63,Female,Typical angina,150,407,Normal,0,154,No,4,Flat,3,Normal,0
+55,Female,Typical angina,128,205,Normal,2,130,Yes,2,Flat,1,Normal,0
+64,Female,Typical angina,180,325,Normal,1,154,Yes,0,Upsloping,0,Fixed Defect,1
+54,Male,Typical angina,110,239,Normal,1,126,Yes,2.8,Flat,1,Normal,0
+52,Male,Typical angina,128,204,High,1,156,Yes,1,Flat,0,Normal,0
+51,Male,Typical angina,140,299,Normal,1,173,Yes,1.6,Upsloping,0,Normal,0
+62,Female,Non-anginal pain,130,263,Normal,1,97,No,1.2,Flat,1,Normal,0
+59,Male,Asymptomatic,178,270,Normal,0,145,No,4.2,Downsloping,0,Normal,1
+52,Male,Atypical angina,134,201,Normal,1,158,No,0.8,Upsloping,1,Fixed Defect,1
+42,Female,Typical angina,102,265,Normal,0,122,No,0.6,Flat,0,Fixed Defect,1
+59,Male,Typical angina,135,234,Normal,1,161,No,0.5,Flat,0,Normal,1
+61,Male,Asymptomatic,134,234,Normal,1,145,No,2.6,Flat,2,Fixed Defect,0
+42,Female,Typical angina,102,265,Normal,0,122,No,0.6,Flat,0,Fixed Defect,1
+62,Female,Typical angina,140,268,Normal,0,160,No,3.6,Downsloping,2,Fixed Defect,0
+59,Male,Non-anginal pain,126,218,High,1,134,No,2.2,Flat,1,Reversible Defect,0
+55,Male,Atypical angina,130,262,Normal,1,155,No,0,Upsloping,0,Fixed Defect,1
+64,Male,Typical angina,120,246,Normal,0,96,Yes,2.2,Downsloping,1,Fixed Defect,0
+42,Male,Typical angina,140,226,Normal,1,178,No,0,Upsloping,0,Fixed Defect,1
+50,Female,Atypical angina,120,244,Normal,1,162,No,1.1,Upsloping,0,Fixed Defect,1
+62,Male,Typical angina,120,267,Normal,1,99,Yes,1.8,Flat,2,Normal,0
+50,Male,Typical angina,144,200,Normal,0,126,Yes,0.9,Flat,0,Normal,0
+50,Male,Non-anginal pain,140,233,Normal,1,163,No,0.6,Flat,1,Normal,0
+58,Female,Atypical angina,136,319,High,0,152,No,0,Upsloping,2,Fixed Defect,0
+35,Male,Typical angina,120,198,Normal,1,130,Yes,1.6,Flat,0,Normal,0
+45,Male,Typical angina,104,208,Normal,0,148,Yes,3,Flat,0,Fixed Defect,1
+66,Male,Typical angina,112,212,Normal,0,132,Yes,0.1,Upsloping,1,Fixed Defect,0
+46,Male,Typical angina,120,249,Normal,0,144,No,0.8,Upsloping,0,Normal,0
+65,Male,Typical angina,135,254,Normal,0,127,No,2.8,Flat,1,Normal,0
+47,Male,Non-anginal pain,130,253,Normal,1,179,No,0,Upsloping,0,Fixed Defect,1
+59,Male,Asymptomatic,134,204,Normal,1,162,No,0.8,Upsloping,2,Fixed Defect,0
+38,Male,Asymptomatic,120,231,Normal,1,182,Yes,3.8,Flat,0,Normal,0
+39,Male,Typical angina,118,219,Normal,1,140,No,1.2,Flat,0,Normal,0
+58,Male,Typical angina,146,218,Normal,1,105,No,2,Flat,1,Normal,0
+44,Male,Atypical angina,120,263,Normal,1,173,No,0,Upsloping,0,Normal,1
+54,Male,Typical angina,140,239,Normal,1,160,No,1.2,Upsloping,0,Fixed Defect,1
+61,Female,Typical angina,130,330,Normal,0,169,No,0,Upsloping,0,Fixed Defect,0
+57,Male,Typical angina,130,131,Normal,1,115,Yes,1.2,Flat,1,Normal,0
+54,Male,Typical angina,110,206,Normal,0,108,Yes,0,Flat,1,Fixed Defect,0
+42,Male,Non-anginal pain,120,240,High,1,194,No,0.8,Downsloping,0,Normal,1
+54,Male,Typical angina,124,266,Normal,0,109,Yes,2.2,Flat,1,Normal,0
+60,Male,Typical angina,130,206,Normal,0,132,Yes,2.4,Flat,2,Normal,0
+65,Male,Typical angina,135,254,Normal,0,127,No,2.8,Flat,1,Normal,0
+40,Male,Typical angina,152,223,Normal,1,181,No,0,Upsloping,0,Normal,0
+51,Female,Non-anginal pain,140,308,Normal,0,142,No,1.5,Upsloping,1,Fixed Defect,1
+38,Male,Asymptomatic,120,231,Normal,1,182,Yes,3.8,Flat,0,Normal,0
+42,Male,Non-anginal pain,130,180,Normal,1,150,No,0,Upsloping,0,Fixed Defect,1
+56,Male,Atypical angina,120,240,Normal,1,169,No,0,Downsloping,0,Fixed Defect,1
+43,Male,Non-anginal pain,130,315,Normal,1,162,No,1.9,Upsloping,1,Fixed Defect,1
+64,Male,Non-anginal pain,140,335,Normal,1,158,No,0,Upsloping,0,Fixed Defect,0
+53,Male,Typical angina,142,226,Normal,0,111,Yes,0,Upsloping,0,Normal,1
+49,Female,Atypical angina,134,271,Normal,1,162,No,0,Flat,0,Fixed Defect,1
+57,Female,Typical angina,140,241,Normal,1,123,Yes,0.2,Flat,0,Normal,0
+52,Female,Non-anginal pain,136,196,Normal,0,169,No,0.1,Flat,0,Fixed Defect,1
+69,Female,Asymptomatic,140,239,Normal,1,151,No,1.8,Upsloping,2,Fixed Defect,1
+65,Male,Typical angina,120,177,Normal,1,140,No,0.4,Upsloping,0,Normal,1
+66,Female,Typical angina,178,228,High,1,165,Yes,1,Flat,2,Normal,0
+56,Male,Asymptomatic,120,193,Normal,0,162,No,1.9,Flat,0,Normal,1
+67,Female,Non-anginal pain,152,277,Normal,1,172,No,0,Upsloping,1,Fixed Defect,1
+54,Female,Non-anginal pain,160,201,Normal,1,163,No,0,Upsloping,1,Fixed Defect,1
+70,Male,Typical angina,145,174,Normal,1,125,Yes,2.6,Downsloping,0,Normal,0
+57,Male,Typical angina,132,207,Normal,1,168,Yes,0,Upsloping,0,Normal,1
+67,Male,Typical angina,160,286,Normal,0,108,Yes,1.5,Flat,3,Fixed Defect,0
+62,Female,Non-anginal pain,130,263,Normal,1,97,No,1.2,Flat,1,Normal,0
+54,Female,Non-anginal pain,135,304,High,1,170,No,0,Upsloping,0,Fixed Defect,1
+45,Female,Typical angina,138,236,Normal,0,152,Yes,0.2,Flat,0,Fixed Defect,1
+53,Female,Typical angina,130,264,Normal,0,143,No,0.4,Flat,0,Fixed Defect,1
+62,Male,Non-anginal pain,130,231,Normal,1,146,No,1.8,Flat,3,Normal,1
+49,Female,Typical angina,130,269,Normal,1,163,No,0,Upsloping,0,Fixed Defect,1
+50,Male,Non-anginal pain,140,233,Normal,1,163,No,0.6,Flat,1,Normal,0
+65,Female,Non-anginal pain,140,417,High,0,157,No,0.8,Upsloping,1,Fixed Defect,1
+69,Female,Asymptomatic,140,239,Normal,1,151,No,1.8,Upsloping,2,Fixed Defect,1
+52,Female,Non-anginal pain,136,196,Normal,0,169,No,0.1,Flat,0,Fixed Defect,1
+58,Female,Typical angina,100,248,Normal,0,122,No,1,Flat,0,Fixed Defect,1
+52,Male,Typical angina,108,233,High,1,147,No,0.1,Upsloping,3,Normal,1
+57,Female,Typical angina,140,241,Normal,1,123,Yes,0.2,Flat,0,Normal,0
+44,Female,Non-anginal pain,108,141,Normal,1,175,No,0.6,Flat,0,Fixed Defect,1
+76,Female,Non-anginal pain,140,197,Normal,2,116,No,1.1,Flat,0,Fixed Defect,1
+58,Male,Typical angina,128,259,Normal,0,130,Yes,3,Flat,2,Normal,0
+60,Female,Non-anginal pain,120,178,High,1,96,No,0,Upsloping,0,Fixed Defect,1
+53,Male,Typical angina,140,203,High,0,155,Yes,3.1,Downsloping,0,Normal,0
+52,Male,Atypical angina,120,325,Normal,1,172,No,0.2,Upsloping,0,Fixed Defect,1
+38,Male,Non-anginal pain,138,175,Normal,1,173,No,0,Upsloping,4,Fixed Defect,1
+52,Male,Non-anginal pain,172,199,High,1,162,No,0.5,Upsloping,0,Normal,1
+52,Male,Asymptomatic,118,186,Normal,0,190,No,0,Flat,0,Reversible Defect,1
+51,Male,Non-anginal pain,125,245,High,0,166,No,2.4,Flat,0,Fixed Defect,1
+43,Male,Typical angina,110,211,Normal,1,161,No,0,Upsloping,0,Normal,1
+39,Male,Typical angina,118,219,Normal,1,140,No,1.2,Flat,0,Normal,0
+63,Female,Typical angina,108,269,Normal,1,169,Yes,1.8,Flat,2,Fixed Defect,0
+52,Male,Atypical angina,128,205,High,1,184,No,0,Upsloping,0,Fixed Defect,1
+44,Male,Typical angina,110,197,Normal,0,177,No,0,Upsloping,1,Fixed Defect,0
+45,Male,Typical angina,142,309,Normal,0,147,Yes,0,Flat,3,Normal,0
+57,Male,Typical angina,140,192,Normal,1,148,No,0.4,Flat,0,Reversible Defect,1
+39,Male,Typical angina,118,219,Normal,1,140,No,1.2,Flat,0,Normal,0
+67,Female,Typical angina,106,223,Normal,1,142,No,0.3,Upsloping,2,Fixed Defect,1
+64,Male,Typical angina,128,263,Normal,1,105,Yes,0.2,Flat,1,Normal,1
+59,Male,Typical angina,135,234,Normal,1,161,No,0.5,Flat,0,Normal,1
+62,Male,Non-anginal pain,130,231,Normal,1,146,No,1.8,Flat,3,Normal,1
+55,Female,Typical angina,180,327,Normal,2,117,Yes,3.4,Flat,0,Fixed Defect,0
+57,Male,Atypical angina,154,232,Normal,0,164,No,0,Upsloping,1,Fixed Defect,0
+60,Male,Typical angina,140,293,Normal,0,170,No,1.2,Flat,2,Normal,0
+71,Female,Atypical angina,160,302,Normal,1,162,No,0.4,Upsloping,2,Fixed Defect,1
+56,Male,Atypical angina,120,236,Normal,1,178,No,0.8,Upsloping,0,Fixed Defect,1
+60,Male,Typical angina,117,230,High,1,160,Yes,1.4,Upsloping,2,Normal,0
+50,Female,Typical angina,110,254,Normal,0,159,No,0,Upsloping,0,Fixed Defect,1
+43,Male,Typical angina,132,247,High,0,143,Yes,0.1,Flat,4,Normal,0
+59,Male,Typical angina,110,239,Normal,0,142,Yes,1.2,Flat,1,Normal,0
+44,Male,Atypical angina,120,263,Normal,1,173,No,0,Upsloping,0,Normal,1
+56,Female,Typical angina,134,409,Normal,0,150,Yes,1.9,Flat,2,Normal,0
+54,Male,Typical angina,120,188,Normal,1,113,No,1.4,Flat,1,Normal,0
+42,Male,Typical angina,136,315,Normal,1,125,Yes,1.8,Flat,0,Reversible Defect,0
+67,Male,Typical angina,125,254,High,1,163,No,0.2,Flat,2,Normal,0
+64,Male,Typical angina,145,212,Normal,0,132,No,2,Flat,2,Reversible Defect,0
+42,Male,Typical angina,140,226,Normal,1,178,No,0,Upsloping,0,Fixed Defect,1
+66,Male,Typical angina,112,212,Normal,0,132,Yes,0.1,Upsloping,1,Fixed Defect,0
+52,Male,Typical angina,108,233,High,1,147,No,0.1,Upsloping,3,Normal,1
+51,Female,Non-anginal pain,140,308,Normal,0,142,No,1.5,Upsloping,1,Fixed Defect,1
+55,Female,Typical angina,128,205,Normal,2,130,Yes,2,Flat,1,Normal,0
+58,Male,Non-anginal pain,140,211,High,0,165,No,0,Upsloping,0,Fixed Defect,1
+56,Male,Asymptomatic,120,193,Normal,0,162,No,1.9,Flat,0,Normal,1
+42,Male,Atypical angina,120,295,Normal,1,162,No,0,Upsloping,0,Fixed Defect,1
+40,Male,Typical angina,152,223,Normal,1,181,No,0,Upsloping,0,Normal,0
+51,Male,Typical angina,140,299,Normal,1,173,Yes,1.6,Upsloping,0,Normal,0
+45,Male,Atypical angina,128,308,Normal,0,170,No,0,Upsloping,0,Fixed Defect,1
+48,Male,Atypical angina,110,229,Normal,1,168,No,1,Downsloping,0,Normal,0
+58,Male,Typical angina,114,318,Normal,2,140,No,4.4,Downsloping,3,Reversible Defect,0
+44,Female,Non-anginal pain,108,141,Normal,1,175,No,0.6,Flat,0,Fixed Defect,1
+58,Male,Typical angina,128,216,Normal,0,131,Yes,2.2,Flat,3,Normal,0
+65,Male,Asymptomatic,138,282,High,0,174,No,1.4,Flat,1,Fixed Defect,0
+53,Male,Typical angina,123,282,Normal,1,95,Yes,2,Flat,2,Normal,0
+41,Male,Typical angina,110,172,Normal,0,158,No,0,Upsloping,0,Normal,0
+47,Male,Typical angina,112,204,Normal,1,143,No,0.1,Upsloping,0,Fixed Defect,1
+59,Male,Atypical angina,140,221,Normal,1,164,Yes,0,Upsloping,0,Fixed Defect,1
+60,Male,Typical angina,125,258,Normal,0,141,Yes,2.8,Flat,1,Normal,0
+47,Male,Typical angina,110,275,Normal,0,118,Yes,1,Flat,1,Fixed Defect,0
+50,Female,Typical angina,110,254,Normal,0,159,No,0,Upsloping,0,Fixed Defect,1
+54,Male,Typical angina,120,188,Normal,1,113,No,1.4,Flat,1,Normal,0
